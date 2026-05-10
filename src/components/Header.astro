@@ -5,8 +5,9 @@ import HeaderLink from './HeaderLink.astro';
 <header>
 	<nav>
 		<div class="brand">
-			<a href="/" class="site-title">{SITE_TITLE}</a>
-			<span class="tagline">all'inizio era un nome sul campanello</span>
+			<a href="/" class="logo-link">
+				<img src="/logo.jpg" alt="MondoFrattolillo" class="logo" />
+			</a>
 		</div>
 		<div class="internal-links">
 			<HeaderLink href="/blog">Blog</HeaderLink>
@@ -27,25 +28,17 @@ import HeaderLink from './HeaderLink.astro';
 		justify-content: space-between;
 		max-width: 900px;
 		margin: 0 auto;
-		padding: 1em 0;
+		padding: 0.5em 0;
 	}
-	.brand { display: flex; flex-direction: column; gap: 2px; }
-	.site-title {
-		font-family: 'Playfair Display', Georgia, serif;
-		font-size: 1.6em;
-		font-weight: 700;
-		color: var(--accent) !important;
-		text-decoration: none;
+	.logo {
+		height: 80px;
+		width: auto;
+		display: block;
 	}
-	.tagline {
-		font-family: 'Montserrat', sans-serif;
-		font-size: 0.65em;
-		color: var(--accent-red);
-		letter-spacing: 0.08em;
-		text-transform: uppercase;
-		font-weight: 500;
+	.logo-link {
+		border-bottom: none;
 	}
-	.internal-links { display: flex; gap: 0.5em; }
+	.internal-links { display: flex; gap: 0.5em; align-items: center; }
 	.internal-links a {
 		font-family: 'Montserrat', sans-serif;
 		font-size: 0.85em;
@@ -65,6 +58,6 @@ import HeaderLink from './HeaderLink.astro';
 	}
 	@media (max-width: 720px) {
 		header { padding: 0 1em; }
-		.tagline { display: none; }
+		.logo { height: 55px; }
 	}
 </style>
