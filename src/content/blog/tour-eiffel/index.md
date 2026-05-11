@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/tour-eiffel/5d409-la_tour_eiffel__by_attackthetrack.jpg
 title: "Marianna &amp; la Tour Eiffel"
 date: 2013-02-22
 categories: 

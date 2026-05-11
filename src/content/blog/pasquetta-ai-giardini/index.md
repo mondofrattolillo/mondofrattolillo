@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/pasquetta-ai-giardini/165a6-2013-04-01-16-14-44.jpg
 title: "Pasquetta ai Giardini"
 date: 2013-04-03
 categories: 

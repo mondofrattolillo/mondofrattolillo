@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/siria/33120-wpid-instaquote-_temp.jpg
 title: "Siria"
 date: 2013-09-06
 categories: 

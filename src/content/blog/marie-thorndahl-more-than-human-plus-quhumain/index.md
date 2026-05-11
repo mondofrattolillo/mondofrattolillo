@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/marie-thorndahl-more-than-human-plus-quhumain/4afea-img_20200221_110601-e1583619098516.jpg
 title: "Marie Thorndahl : more than human | plus qu’humain"
 date: 2020-03-08
 categories: 

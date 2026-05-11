@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/centoventi-anni-di-cinema/88699-lumic3a8re-e1431511297602.jpg
 title: "Centoventi anni di cinema in sette minuti."
 date: 2015-05-13
 categories: 

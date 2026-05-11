@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/vieenrose/0f50b-edith-piaf.jpg
 title: "La Vie en Rose - dedicato a chi è triste"
 date: 2013-02-26
 categories: 

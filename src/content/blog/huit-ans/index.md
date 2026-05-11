@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/huit-ans/011ce-2013-01-29-09.48.28.jpg
 title: "HUIT ANS..."
 date: 2021-01-27
 categories: 

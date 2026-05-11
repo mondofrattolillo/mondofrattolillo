@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/buone-feste-2/7c60b-greeting-2014-1-0.png
 title: "Buone Feste a tutti!"
 date: 2014-12-26
 categories: 

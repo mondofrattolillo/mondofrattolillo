@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/autolib-paris/7fe3e-autolib.jpg
 title: "AUTOLIB Paris: un'alternativa valida all'auto privata"
 date: 2016-11-23
 categories: 

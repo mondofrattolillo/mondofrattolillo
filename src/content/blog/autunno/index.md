@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/autunno/b7709-wpid-instaquote-_temp.jpg
 title: "Autunno"
 date: 2013-10-28
 categories: 

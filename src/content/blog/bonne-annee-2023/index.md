@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/bonne-annee-2023/580b585b2edbce24c47b27fa-2776574448-e1673004980686.png
 title: "Bonne année 2023 !"
 date: 2023-01-06
 categories: 

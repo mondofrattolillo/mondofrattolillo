@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/paese-che-vai-ikea-che-trovi/1133d-c360_2013-03-10-14-59-04.jpg
 title: "Paese che vai, IKEA che trovi"
 date: 2013-03-12
 categories: 

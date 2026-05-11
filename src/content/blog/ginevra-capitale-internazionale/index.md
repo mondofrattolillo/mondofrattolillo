@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/ginevra-capitale-internazionale/ef89a-img_20200218_102029.jpg
 title: "Ginevra, capitale internazionale"
 date: 2020-02-22
 categories: 

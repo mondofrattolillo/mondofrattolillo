@@ -23,29 +23,17 @@ const posts = (await getCollection('blog')).sort(
 				margin: 0;
 				padding: 0;
 			}
-			.blog-grid li:first-child {
-				grid-column: 1 / -1;
-				display: grid;
-				grid-template-columns: 1fr 1fr;
-				gap: 2rem;
-				align-items: center;
-				padding-bottom: 2.5rem;
-				border-bottom: 1px solid rgb(var(--gray-light));
-				margin-bottom: 1rem;
-			}
-			.blog-grid li:first-child .title {
-				font-size: 2.2rem;
-			}
-			.blog-grid li:first-child .meta {
-				display: flex;
-				flex-direction: column;
-				justify-content: center;
-				gap: 1rem;
-			}
 			article a {
 				display: block;
 				text-decoration: none;
 				border-bottom: none;
+			}
+			.cover-img {
+				width: 100%;
+				height: 160px;
+				object-fit: cover;
+				border-radius: 4px;
+				margin-bottom: 0.5em;
 			}
 			.title {
 				font-family: 'Playfair Display', Georgia, serif;
@@ -65,9 +53,7 @@ const posts = (await getCollection('blog')).sort(
 				color: var(--accent);
 				margin: 0;
 			}
-			article a:hover .title {
-				color: var(--accent);
-			}
+			article a:hover .title { color: var(--accent); }
 			.category-tag {
 				display: inline-block;
 				font-family: 'Montserrat', sans-serif;
@@ -88,9 +74,6 @@ const posts = (await getCollection('blog')).sort(
 			}
 			@media (max-width: 720px) {
 				.blog-grid { grid-template-columns: 1fr; }
-				.blog-grid li:first-child {
-					grid-template-columns: 1fr;
-				}
 			}
 		</style>
 	</head>
@@ -99,10 +82,13 @@ const posts = (await getCollection('blog')).sort(
 		<main>
 			<hr class="divider" />
 			<ul class="blog-grid">
-				{posts.map((post, index) => (
+				{posts.map((post) => (
 					<li>
 						<article>
 							<a href={`/blog/${post.id}/`}>
+								{(post.data.coverImage || post.data.heroImage) && (
+									<img class="cover-img" src={post.data.coverImage ?? post.data.heroImage} alt="" />
+								)}
 								{post.data.categories && post.data.categories[0] && (
 									<span class="category-tag">{post.data.categories[0]}</span>
 								)}

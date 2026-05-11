@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/torino-e-la-piazza-castello/12fba-piazza_castello_9.jpg
 title: "Torino e la Piazza Castello / Turin, la Place Castello"
 date: 2019-11-02
 categories: 

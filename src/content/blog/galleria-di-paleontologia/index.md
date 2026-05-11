@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/galleria-di-paleontologia/06551-c360_2013-08-25-17-12-45-827.jpg
 title: "Il Museo di Storia Naturale: la Galleria di Paleontologia"
 date: 2013-08-27
 categories: 

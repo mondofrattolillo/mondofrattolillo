@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/i-modi-piu-social-di-fare-network/88x31.png
 title: "I modi più \"social\" di fare \"network\""
 date: 2011-06-21
 categories: 

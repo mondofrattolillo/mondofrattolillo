@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/agatha-christie/56a37-agatha-christie-a-chagar-baza-british-museum.jpg
 title: "Delitto ed Archeologia"
 date: 2015-03-30
 categories: 

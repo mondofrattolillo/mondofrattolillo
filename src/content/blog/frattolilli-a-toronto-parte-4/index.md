@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/frattolilli-a-toronto-parte-4/0bece-pict0160_thumb1.jpg
 title: "FrAtToLiLlI a Toronto – parte 4"
 date: 2010-06-27
 categories: 

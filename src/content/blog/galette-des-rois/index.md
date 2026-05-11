@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/galette-des-rois/7aef1-feves_galette_rois.jpg
 title: "La tradizione della Galette des Rois"
 date: 2015-01-06
 categories: 

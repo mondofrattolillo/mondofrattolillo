@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/carrefour50/6280d-043a63457f.jpg
 title: "Oggi è il cinquantesimo compleanno dell'Ipermercato"
 date: 2013-06-14
 categories: 

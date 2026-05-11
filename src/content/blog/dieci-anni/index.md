@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/dieci-anni/0ca62-c360_2013-05-10-17-52-28-219.jpg
 title: "Dieci anni"
 date: 2023-01-27
 categories: 

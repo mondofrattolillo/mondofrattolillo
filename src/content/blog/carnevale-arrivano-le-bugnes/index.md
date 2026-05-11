@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/carnevale-arrivano-le-bugnes/bugnes.png
 title: "CARNEVALE: ARRIVANO LE \"BUGNES\""
 date: 2021-02-03
 categories: 

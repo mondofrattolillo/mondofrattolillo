@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/sur-un-air-de-campagne/0b0a4-599923219487622.jpg
 title: "\" Sur un air de campagne \""
 date: 2019-10-26
 categories: 

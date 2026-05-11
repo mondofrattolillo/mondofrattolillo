@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/marianna-e-il-mare/2f868-pict0442_thumb.jpg
 title: "Marianna e il Mare"
 date: 2010-09-16
 categories: 

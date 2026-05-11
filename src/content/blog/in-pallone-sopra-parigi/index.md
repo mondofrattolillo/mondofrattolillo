@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/in-pallone-sopra-parigi/b85e2-balons-de-paris-3-e1433548760184.png
 title: "In pallone sopra Parigi"
 date: 2015-06-06
 categories: 

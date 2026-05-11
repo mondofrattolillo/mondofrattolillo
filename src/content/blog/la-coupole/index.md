@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/la-coupole/176c9-coupole-1.jpg
 title: "Una Domenica a La Coupole"
 date: 2013-03-25
 categories: 

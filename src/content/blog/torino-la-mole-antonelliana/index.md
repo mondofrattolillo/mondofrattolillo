@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/torino-la-mole-antonelliana/e35e5-wpid-img_20110718_183933.jpg
 title: "Torino, la Mole Antonelliana"
 date: 2011-07-19
 categories: 

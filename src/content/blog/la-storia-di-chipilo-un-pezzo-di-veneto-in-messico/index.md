@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/la-storia-di-chipilo-un-pezzo-di-veneto-in-messico/011a1-chipilo-1.jpg
 title: "La storia di Chipilo, un pezzo di Veneto in Messico"
 date: 2014-10-29
 categories: 

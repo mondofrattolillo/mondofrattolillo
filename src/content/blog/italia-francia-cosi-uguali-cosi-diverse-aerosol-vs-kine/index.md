@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/italia-francia-cosi-uguali-cosi-diverse-aerosol-vs-kine/aerosol-bambini_900x760.jpg
 title: "Italia - Francia, così uguali così diverse: aerosol vs. kiné"
 date: 2021-03-02
 categories: 

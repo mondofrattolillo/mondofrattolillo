@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/il-freddo-se-ne-va/85f58-2013-02-18-19-12-49.jpg
 title: "Il freddo se ne va?"
 date: 2013-02-18
 categories: 

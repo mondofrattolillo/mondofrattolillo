@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/grandi-donne-parigine-maria-salomea-sklodowska/1280px-marie_curie_pantheon_de_paris_2012-10-11.jpg
 title: "Grandi Donne Parigine: MARIA SALOMEA SKLODOWSKA"
 date: 2021-04-26
 categories: 

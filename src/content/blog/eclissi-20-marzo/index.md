@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/eclissi-20-marzo/f873f-eclissi2.jpg
 title: "20 Marzo: arriva l'Eclissi di Sole"
 date: 2015-03-19
 categories: 

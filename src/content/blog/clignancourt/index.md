@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/clignancourt/0e968-flea-market.jpg
 title: "Il Mercato delle Pulci di Porte de Clignancourt"
 date: 2013-04-25
 categories: 

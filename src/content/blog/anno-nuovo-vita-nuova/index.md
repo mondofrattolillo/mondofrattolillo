@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/anno-nuovo-vita-nuova/86b23-cropped-img_20160627_190812.jpg
 title: "ANNO NUOVO, VITA NUOVA"
 date: 2021-01-31
 categories: 

@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/roland-garros-2013/2b7b1-520997-court-philippe-chatrier-2.jpg
 title: "Roland-Garros 2013"
 date: 2013-05-27
 categories: 

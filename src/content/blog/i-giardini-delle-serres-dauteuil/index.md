@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/i-giardini-delle-serres-dauteuil/0846e-c360_2013-07-05-11-19-01-103.jpg
 title: "I Giardini delle Serres d'Auteuil"
 date: 2013-10-06
 categories: 

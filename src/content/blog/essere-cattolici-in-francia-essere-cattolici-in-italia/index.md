@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/essere-cattolici-in-francia-essere-cattolici-in-italia/1ca14-img_20200920_113634_marianna.png
 title: "Essere cattolici in Francia, essere cattolici in Italia"
 date: 2020-09-22
 categories: 

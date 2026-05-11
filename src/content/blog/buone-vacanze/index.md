@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/buone-vacanze/a3028-vacanze-mare.jpg
 title: "Buone Vacanze!"
 date: 2010-07-30
 categories: 

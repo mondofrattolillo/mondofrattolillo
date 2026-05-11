@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/les-voyages-imaginaires-le-japon/japon_cover.png
 title: "[ les Voyages Imaginaires ] le JAPON"
 date: 2021-04-27
 categories: 

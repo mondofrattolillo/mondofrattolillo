@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/la-frattofamily-a-capo-vaticano/1ed92-pict0302.jpg
 title: "la fRaTtOfamily a Capo Vaticano"
 date: 2010-08-03
 categories: 

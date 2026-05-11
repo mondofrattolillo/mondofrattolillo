@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/buon-compleanno-marianna/f0dd0-pict0049.jpg
 title: "Buon Compleanno, Marianna!"
 date: 2010-10-11
 categories: 

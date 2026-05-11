@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/scheletri-parigi/12PARIS2-superJumbo.jpg
 title: "200 scheletri rinvenuti nel cuore di Parigi"
 date: 2015-03-04
 categories: 

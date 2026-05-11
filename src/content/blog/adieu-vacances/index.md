@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/adieu-vacances/944e6-wpid-picsart_1377727196602.jpg
 title: "Adieu, vacances"
 date: 2013-08-28
 categories: 

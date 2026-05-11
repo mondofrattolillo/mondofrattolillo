@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/10-giugno-1940-litalia-dichiara-guerra-alla-francia/1024px-benito_mussolini_w_rozmowie_z_ksieciem_umberto_ii_2-279.jpg
 title: "10 giugno 1940: l'Italia dichiara guerra alla Francia"
 date: 2021-06-10
 categories: 

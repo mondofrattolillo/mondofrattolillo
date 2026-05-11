@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/pentax/f934c-screenshot-from-2014-11-16-010615.png
 title: "Parigi Reflex"
 date: 2014-11-16
 categories: 

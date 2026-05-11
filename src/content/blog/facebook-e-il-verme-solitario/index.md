@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/facebook-e-il-verme-solitario/b8610-messenger-1.jpg
 title: "Facebook e il Verme Solitario"
 date: 2016-06-13
 categories: 

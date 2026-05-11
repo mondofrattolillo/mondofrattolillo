@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/ruote-dargento-2019/0144a-img_20190602_114119.jpg
 title: "Ruote d'Argento 2019"
 date: 2019-06-13
 categories: 

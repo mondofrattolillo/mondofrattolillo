@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/new-york-new-york/2419e-bluenote.jpg
 title: "NEW YORK, NEW YORK"
 date: 2020-12-04
 categories: 

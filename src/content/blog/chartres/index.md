@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/chartres/066f9-c360_2015-03-21-15-41-24-207.jpg
 title: "La Cattedrale di Chartres"
 date: 2015-04-16
 categories: 

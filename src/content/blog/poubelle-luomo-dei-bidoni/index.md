@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/poubelle-luomo-dei-bidoni/0df6c-0601929738353-web-tete-1.png
 title: "Poubelle, l'Uomo dei bidoni"
 date: 2021-01-19
 categories: 

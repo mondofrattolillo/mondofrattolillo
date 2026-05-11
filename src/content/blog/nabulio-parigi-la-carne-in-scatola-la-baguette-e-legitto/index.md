@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/nabulio-parigi-la-carne-in-scatola-la-baguette-e-legitto/1620050527748_istituto02.jpg
 title: "Nabulio, Parigi, la carne in scatola, la baguette e l'Egitto"
 date: 2021-05-05
 categories: 

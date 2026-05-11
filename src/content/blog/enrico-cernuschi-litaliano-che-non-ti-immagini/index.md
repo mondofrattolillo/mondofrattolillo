@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/enrico-cernuschi-litaliano-che-non-ti-immagini/0f2d0-musee_cernuschi_paris_corbis_42_23236095_lqobkh.jpg
 title: "Enrico Cernuschi, l'Italiano che non ti immagini"
 date: 2014-10-27
 categories: 

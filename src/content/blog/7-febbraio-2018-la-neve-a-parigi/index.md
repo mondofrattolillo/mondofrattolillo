@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/7-febbraio-2018-la-neve-a-parigi/c96f9b20-0bde-11e8-a644-ef5ea3d72f0f.jpg
 title: "7 FEBBRAIO 2018: LA NEVE A PARIGI"
 date: 2021-02-07
 categories: 

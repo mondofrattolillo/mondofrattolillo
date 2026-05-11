@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/frattolilli-a-toronto/060cf-pict0098_thumb.jpg
 title: "FrAtToLilLi a Toronto"
 date: 2010-06-21
 categories: 

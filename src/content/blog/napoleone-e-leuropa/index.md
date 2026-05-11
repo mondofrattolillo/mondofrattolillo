@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/napoleone-e-leuropa/0ca62-c360_2013-05-10-17-52-28-219.jpg
 title: "Napoleone e l'Europa"
 date: 2013-05-12
 categories: 

@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/lestate-sta-finendo/032e6-map528c482afda5.jpg
 title: "L’Estate sta finendo"
 date: 2010-08-15
 categories: 

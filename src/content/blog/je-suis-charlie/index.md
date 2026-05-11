@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/je-suis-charlie/0181f-charlie-hebdo-je-suis-charlie.jpg
 title: "Je suis Charlie"
 date: 2015-01-19
 categories: 

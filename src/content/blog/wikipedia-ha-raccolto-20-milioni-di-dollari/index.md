@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/wikipedia-ha-raccolto-20-milioni-di-dollari/88x31.png
 title: "Wikipedia ha raccolto 20 milioni di dollari"
 date: 2012-01-03
 categories: 

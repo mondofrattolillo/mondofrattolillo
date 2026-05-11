@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/addio-maestro/b2689-c-era-una-volta-il-west-web1280.jpg
 title: "Addio Maestro"
 date: 2020-07-06
 categories: 

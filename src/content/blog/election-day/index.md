@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/election-day/9fcf3-thumbnail_526_elezioni-politiche-2013.jpg
 title: "Election Day"
 date: 2013-02-23
 categories: 

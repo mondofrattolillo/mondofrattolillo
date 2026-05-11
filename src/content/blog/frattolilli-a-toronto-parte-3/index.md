@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/frattolilli-a-toronto-parte-3/011bd-pict0125.jpg
 title: "FrAtToLiLli a Toronto – parte 3"
 date: 2010-06-24
 categories: 

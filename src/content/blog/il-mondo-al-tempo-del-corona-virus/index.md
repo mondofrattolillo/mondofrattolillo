@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/il-mondo-al-tempo-del-corona-virus/12043-coronavirus-mondo-5_barcelona.jpg
 title: "Il mondo al tempo del corona virus"
 date: 2020-03-27
 categories: 

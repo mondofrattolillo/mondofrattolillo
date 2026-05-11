@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/frontiere/2af1a-img_20201026_001829-1.jpg
 title: "Frontiere"
 date: 2020-11-02
 categories: 

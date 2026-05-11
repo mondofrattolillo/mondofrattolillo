@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/ciao-papa/5848f-daddy_shoulders-1-11.jpg
 title: "Ciao Papà"
 date: 2013-06-19
 categories: 

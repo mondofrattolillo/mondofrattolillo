@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/gli-eroi-italiani-dimenticati-prima-parte/6zu4fwgxdlxnczoo466cr6udoa.jpg
 title: "GLI EROI ITALIANI DIMENTICATI - prima parte"
 date: 2022-07-14
 categories: 

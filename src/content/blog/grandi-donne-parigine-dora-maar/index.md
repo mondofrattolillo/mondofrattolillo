@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/grandi-donne-parigine-dora-maar/25c2b-dora-maar-centre-pompidou-fisheye-7.jpg
 title: "Grandi Donne Parigine: DORA MAAR"
 date: 2020-06-08
 categories: 

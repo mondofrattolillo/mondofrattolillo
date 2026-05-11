@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/parigi-a-novembre/rue-de-belleville-paris-2020.jpg
 title: "PARIGI, A NOVEMBRE"
 date: 2021-04-15
 categories: 

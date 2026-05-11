@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/italia-come-si-usano-i-social-network/88x31.png
 title: "Italia, come si usano i social network?"
 date: 2012-06-22
 categories: 

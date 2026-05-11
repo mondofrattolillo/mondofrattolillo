@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/quello-che-le-parole-non-dicono/24953-kaushik-panchal-0juc5jihpks-unsplash.jpg
 title: "Quello che le parole non dicono"
 date: 2020-06-01
 categories: 

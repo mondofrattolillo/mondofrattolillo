@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/come-prevenire-la-dipendenza-degli-adolescenti-dai-social-media/404Page.jpg
 title: "Come prevenire la dipendenza degli adolescenti dai Social Media"
 date: 2023-03-21
 categories: 

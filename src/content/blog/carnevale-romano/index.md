@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/carnevale-romano/941c6-wpid-2011-03-06-17-52-09.jpg
 title: "Carnevale Romano"
 date: 2011-03-07
 categories: 

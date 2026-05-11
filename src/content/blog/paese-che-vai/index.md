@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/paese-che-vai/0d9ea-1217pod161.jpg
 title: "Paese che vai, Burocrazia che trovi"
 date: 2013-02-19
 categories: 

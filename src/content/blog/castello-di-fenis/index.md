@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/castello-di-fenis/00524-img_20200816_165314385962573.jpg
 title: "FÉNIS, storia di un castello immortale"
 date: 2020-08-18
 categories: 

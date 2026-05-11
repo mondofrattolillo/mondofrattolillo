@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/cern-dove-nacque-il-web/90a0c-marco_cern_2020.png
 title: "CERN, ovvero dove nacque il Web (come lo conosciamo oggi)"
 date: 2020-11-25
 categories: 

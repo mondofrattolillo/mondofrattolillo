@@ -1,4 +1,5 @@
 ---
+coverImage: /blog-images/grandi-donne-parigine-francoise-demulder-fifi/2115408_orig.jpg
 title: "Grandi Donne Parigine: FRANÇOISE DEMULDER (\"FIFI\")"
 date: 2020-06-24
 categories: 
