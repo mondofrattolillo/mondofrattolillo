@@ -3,13 +3,14 @@ coverImage: /blog-images/enrico-cernuschi-litaliano-che-non-ti-immagini/0f2d0-mu
 title: "Enrico Cernuschi, l'Italiano che non ti immagini"
 date: 2014-10-27
 categories: 
-  - "non-classe"
+  - "Parigi"
 tags: 
   - "art"
   - "cultura"
   - "culture"
   - "escursioni"
   - "exhibition"
+coverImage: /enrico-cernuschi-litaliano-che-non-ti-immagini/images/0f2d0-musee_cernuschi_paris_corbis_42_23236095_lqobkh.jpg
 ---
 
 La Storia italiana è fatta di tanti uomini e donne che, nonostante tutto e tutti, sono riusciti a realizzare all'estero grandi progetti che hanno segnato lo sviluppo dei paesi in cui hanno vissuto.
@@ -26,7 +27,9 @@ Protagonista della Repubblica Romana, chiude con la politica dopo la piega filo-
 
 Infine, uomo di cultura e di gusti raffinati, raccoglie reperti ed opere d'arte orientali di grande valore nella sua casa parigina che, alla sua morte, cede alla città per farne un museo aperto ancora oggi a migliaia di visitatori.
 
-\[gallery type="slideshow" link="file" size="medium" ids="728,726,727,725,724"\]
+
+![images](./images/ad455-cernuschi_musc3a9e.jpg)
+
 
 Insomma, ci sarebbe di che scriverne per giorni e farne uno sceneggiato a puntate... invece, la sua figura non è quasi mai ricordata in Italia.
 
