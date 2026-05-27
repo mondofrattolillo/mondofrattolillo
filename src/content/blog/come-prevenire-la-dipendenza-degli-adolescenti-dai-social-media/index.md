@@ -16,7 +16,7 @@ tags:
   - "societa"
 ---
 
-> **Articolo pubblicato originariamente in francese su [marcobena.eu](https://blog.marcobena.eu/comment-prevenir-laddiction-des-adolescents-aux-reseaux-sociaux/03/2023/)**
+> **Articolo pubblicato originariamente in francese su [marcobena.eu](https://blog.marcobena.eu/comment-prevenir-laddiction-des-adolescents-aux-reseaux-sociaux/)**
 
 ### Al giorno d'oggi, i social network sono onnipresenti nella vita degli adolescenti.
 
