@@ -10,7 +10,6 @@ tags:
   - "culture"
   - "escursioni"
   - "exhibition"
-coverImage: /enrico-cernuschi-litaliano-che-non-ti-immagini/images/0f2d0-musee_cernuschi_paris_corbis_42_23236095_lqobkh.jpg
 ---
 
 La Storia italiana è fatta di tanti uomini e donne che, nonostante tutto e tutti, sono riusciti a realizzare all'estero grandi progetti che hanno segnato lo sviluppo dei paesi in cui hanno vissuto.
