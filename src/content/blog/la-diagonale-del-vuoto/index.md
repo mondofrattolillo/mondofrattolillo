@@ -36,4 +36,4 @@ Nel frattempo, esiste. Silenziosa, vasta, bellissima.
 
 *Hai mai attraversato quella Francia? Raccontamelo nei commenti.*
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/reel/1481700817037198" width="720" height="405" style="border:none;overflow:hidden;max-width:100%" scrolling="no" allowfullscreen="true"></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/ejSRjdhfSdg" style="max-width:100%;border-radius:8px;" frameborder="0" allowfullscreen></iframe>
