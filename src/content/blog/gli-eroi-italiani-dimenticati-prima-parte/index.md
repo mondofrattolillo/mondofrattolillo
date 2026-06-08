@@ -15,11 +15,11 @@ La Storia è scritta da persone che, in positivo o in negativo, hanno legato il 
 
 A volte si tende a ricordare soprattutto chi ha provocato danni enormi alla civiltà umana, perché le esperienze negative sono quelle che restano più vive nella memoria.
 
-Ma ce sono sempre molte altre che, invece, segnano il loro percorso in questa vita con scelte, decisioni e azioni che vengono ricordate per il Bene che hanno prodotto per la collettività.
+Ma ce ne sono sempre molte altre che, invece, segnano il loro percorso in questa vita con scelte, decisioni e azioni che vengono ricordate per il bene che hanno prodotto per la collettività.
 
 Li definiamo Eroi, dal greco prima e dal latino poi: _uomini vigorosi_, persone forti che sono state capaci di lasciare un marchio positivo indelebile del loro passaggio.
 
-Ci sono poi degli Eroi ancora più particolari che, spesso perché le loro azioni non coincidono con la narrazione ufficiale, vengono messi da parte, delle ombre impalpabili ma impenetrabili avvolgono la loro esistenza e nessuno ne parla, li ricorda, ne fa romanzi o film.
+Ci sono poi degli Eroi ancora più particolari che, spesso perché le loro azioni non coincidono con la narrazione ufficiale, vengono messi da parte; delle ombre impalpabili ma impenetrabili avvolgono la loro esistenza e nessuno ne parla, li ricorda, ne fa romanzi o film.
 
 Anche in Italia non si è esenti da questa abitudine e, per quanto possibile, cercherò di ricordare figure del passato molto importanti e che per diversi motivi sono stati messi nel dimenticatoio della Storia.
 
@@ -29,28 +29,15 @@ Forse perché anch’io vivo questa situazione, legato a doppio filo a due paesi
 
 Settimo di tredici figli, **Pietro Paolo Savorgnan di Brazzà** nasce a Castel Gandolfo, da tutti conosciuta come residenza papale estiva, il 26 gennaio del 1852.
 
-<figure>
-  <img
-    src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F26eead8c-c610-4093-ae15-ded1907cd428_343x480.jpeg"
-    alt="Pier Paolo Savorgnan de Brazzà"
-    loading="lazy"
-  />
-  <figcaption>
-    Pier Paolo Savorgnan de Brazzà ritratto da <a href="https://fr.vikidia.org/w/index.php?title=Paul_Nadar&action=edit&redlink=1">Paul Nadar</a>
-  </figcaption>
-</figure>
+![Pier Paolo Savorgnan de Brazzà](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F26eead8c-c610-4093-ae15-ded1907cd428_343x480.jpeg)
+
+*Pier Paolo Savorgnan de Brazzà ritratto da [Paul Nadar](https://fr.vikidia.org/w/index.php?title=Paul_Nadar&action=edit&redlink=1).*
 
 E’ figlio di un’aristocratica romana, Giacinta Simonetti, e del conte friulano Ascanio Savorgnan di Brazzà.
 
 Dopo avere iniziato gli studi a Roma, si trasferisce a Parigi per continuarli e ben presto si appassiona all’Africa ed ai viaggi di esplorazione che si stanno moltiplicando alla fine dell’800.
 
-<figure>
-  <img
-    src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feeb63c93-6e7f-4665-9543-9776cbafd8ad_349x480.jpeg"
-    alt="Pierre Savorgnan de Brazza durante il periodo delle esplorazioni africane"
-    loading="lazy"
-  />
-</figure>
+![Pierre Savorgnan de Brazza durante il periodo delle esplorazioni africane](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feeb63c93-6e7f-4665-9543-9776cbafd8ad_349x480.jpeg)
 
 Con la nascita dell’industrializzazione, le grandi potenze europee spingono le proprie mire imperialiste verso il cuore del continente, ricco di materie prime e con grandi prospettive di investimenti redditizi.
 
@@ -65,16 +52,9 @@ Infatti, non solo Brazzà non segue le “strategie” coloniali dell’epoca, i
 
 Scriverà per le autorità francesi, infatti, due rapporti molto dettagliati sulle atrocità compiute da personaggi come Stanley, che voleva imporre la corona britannica con la forza a tutta l’Africa, e re Leopoldo II del Belgio, che riceveva come omaggio migliaia di ceste colme di mani e braccia tagliate a colpi di macete ai congolesi che non accettavano di sottomettersi (e per questo non è mai stato giudicato da alcun tribunale internazionale e non).
 
-<figure>
-  <img
-    src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2fb98111-ad21-431f-be00-adb6133189dd_400x506.jpeg"
-    alt="Soldati belgi in Congo durante l’epoca coloniale"
-    loading="lazy"
-  />
-  <figcaption>
-    I soldati belgi in Congo ricevevano un compenso in denaro in base al numero di mani tagliate alla popolazione locale.
-  </figcaption>
-</figure>
+![Soldati belgi in Congo durante l’epoca coloniale](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2fb98111-ad21-431f-be00-adb6133189dd_400x506.jpeg)
+
+*I soldati belgi in Congo ricevevano un compenso in denaro in base al numero di mani tagliate alla popolazione locale.*
 
 Tutti i suoi rapporti resteranno inascoltati, ma la popolazione locale gli riconoscerà la sua onestà, la sua correttezza ed il suo desiderio sincero di aiutare l’Africa.
 
@@ -84,16 +64,9 @@ Il governo francese propone alla moglie, **Thérèse de Chambrun**, l’inumazio
 
 I suoi resti, inizialmente sepolti con quelli della sua famiglia ad Algeri, saranno trasferiti il 3 ottobre 2006 a **[Brazzaville](https://fr.wikipedia.org/wiki/Brazzaville)**, la capitale della Repubblica del Congo, l’antica M'Foa che verrà intitolata al suo nome nel 1911.
 
-<figure>
-  <img
-    src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F147afe95-6e58-4bcd-8dbb-ce88b660e40a_550x309.jpeg"
-    alt="Mausoleo dedicato a Brazzà a Brazzaville"
-    loading="lazy"
-  />
-  <figcaption>
-    Il Mausoleo dedicato a Brazzà nella capitale congolese
-  </figcaption>
-</figure>
+![Mausoleo dedicato a Brazzà a Brazzaville](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F147afe95-6e58-4bcd-8dbb-ce88b660e40a_550x309.jpeg)
+
+*Il Mausoleo dedicato a Brazzà nella capitale congolese.*
 
 E’ giusto ricordare che Brazzaville, durante l’occupazione nazista della Francia dal 1940 al 1942, fu la capitale della [Francia Libera](https://fr.wikipedia.org/wiki/France_libre).
 
