@@ -21,7 +21,7 @@ Piazza Castello, con i suoi 40.000 metri quadri, è la seconda piazza più grand
 
 La piazza, ubicata nel centro del capoluogo piemontese, **fu progettata dall’architetto Ascanio Vitozzi nel lontano 1584**. Centro della vita aristocratica durante il regno sabauda, Piazza Castello è ancora oggi il centro nevralgico della città di Torino.
 
-https://youtu.be/U90GnWQa5F8
+<iframe width="720" height="405" src="https://www.youtube.com/embed/U90GnWQa5F8" style="max-width:100%;border-radius:8px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!--more-->
 

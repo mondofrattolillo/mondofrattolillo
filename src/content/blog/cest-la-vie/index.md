@@ -11,7 +11,7 @@ tags:
   - "lingua"
 ---
 
-http://youtu.be/eEFkE6VjZ2Y
+<iframe width="720" height="405" src="https://www.youtube.com/embed/eEFkE6VjZ2Y" style="max-width:100%;border-radius:8px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Nel tempo, nella lingua Italiana, sono entrati nell'uso corrente molti "ospiti" stranieri. Talvolta per colmare un vuoto, altre per rendere meglio un concetto, altre ancora per permettere a chi ne fa uso di darsi un tono di superiorità, o almeno di internazionalità.
 

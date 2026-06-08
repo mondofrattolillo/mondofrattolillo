@@ -10,4 +10,4 @@ tags:
   - "underground"
 ---
 
-\[youtube=http://www.youtube.com/watch?v=zBIt3OrMaMk\]
+<iframe width="720" height="405" src="https://www.youtube.com/embed/zBIt3OrMaMk" style="max-width:100%;border-radius:8px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

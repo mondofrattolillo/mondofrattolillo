@@ -18,7 +18,7 @@ tags:
   - "youtube"
 ---
 
-`[youtube https://www.youtube.com/watch?v=i2QGCcrPnNk?rel=0&controls=0]`
+<iframe width="720" height="405" src="https://www.youtube.com/embed/i2QGCcrPnNk" style="max-width:100%;border-radius:8px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Questo video è il tributo al cinema di [**Joris Faucon Grimaud**](https://www.youtube.com/channel/UCtJQ99bObiQ2O1Fzp0MjQmg "JFG_YouTube"), uno studente di cinema di Parigi, che per celebrare il centoventesimo anniversario dell’invenzione del cinematografo, ideato dai fratelli [**Lumière**](http://it.wikipedia.org/wiki/Auguste_e_Louis_Lumi%C3%A8re "Lumière") nel marzo del 1895, ha raccolto centoventi anni di storia cinematografica in un filmato della durata di sette minuti, partendo dall’anno 1895 per arrivare ad oggi, nel 2015.<!--more-->
 

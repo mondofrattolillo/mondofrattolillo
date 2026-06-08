@@ -32,7 +32,7 @@ On a essayé de réunir quelqu'un de ces moments dans un bref montage de photos.
 
 > Meilleurs vœux à vous tou(te)s, en espérant que le 2023 puisse nous donner de la santé, du bonheur et du succès.
 
-\[youtube https://www.youtube.com/watch?v=P0hIks9NEYo&w=720&h=405\]
+<iframe width="720" height="405" src="https://www.youtube.com/embed/P0hIks9NEYo" style="max-width:100%;border-radius:8px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 

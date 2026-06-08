@@ -296,4 +296,4 @@ Nel 2013, la zecca italiana gli ha dedicato una moneta della serie **_'Italia 
 
 Un'ultima nota che va segnalata è che nessun castello della Val d'Aosta, con esclusione del **[Forte di Bard](https://it.wikipedia.org/wiki/Forte_di_Bard)** (distrutto da Napoleone I), non è mai stato espugnato dall'esercito invasore.
 
-https://youtu.be/Kocfxr2-W6c
+<iframe width="720" height="405" src="https://www.youtube.com/embed/Kocfxr2-W6c" style="max-width:100%;border-radius:8px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

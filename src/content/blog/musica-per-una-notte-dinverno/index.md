@@ -9,7 +9,7 @@ tags:
   - "youtube"
 ---
 
-\[youtube=http://www.youtube.com/watch?v=f3eYohCekIA\]
+<iframe width="720" height="405" src="https://www.youtube.com/embed/f3eYohCekIA" style="max-width:100%;border-radius:8px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Dominic Miller è un musicista famoso soprattutto per essere da molto tempo il chitarrista ed arrangiatore di Sting.
 

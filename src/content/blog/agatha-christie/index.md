@@ -30,7 +30,7 @@ Questo matrimonio, però, fa nascere in Agatha Christie la passione per l'archeo
 
 La romanziera segue il marito negli scavi in medio Oriente, tra cui quello nell'antica città di **Nimrud**: lo assiste nelle ricerche, etichettando e fotografando i reperti trovati, ed un giorno le viene affidato un incarico di fiducia...<!--more-->
 
-`[youtube https://www.youtube.com/watch?v=5VCldg1TdHc?rel=0]`
+<iframe width="720" height="405" src="https://www.youtube.com/embed/5VCldg1TdHc" style="max-width:100%;border-radius:8px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Viene incaricata, infatti, di liberare una piccola scultura antica in avorio dalla sua crosta di fango secco. Nel periodo neo-assiro, queste statuette erano destinate ad ornare i mobili di lusso.
 

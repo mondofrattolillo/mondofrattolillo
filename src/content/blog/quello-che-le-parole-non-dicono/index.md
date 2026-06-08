@@ -18,7 +18,7 @@ tags:
   - "turin"
 ---
 
-https://www.youtube.com/watch?v=IHhCE8ymcLk
+<iframe width="720" height="405" src="https://www.youtube.com/embed/IHhCE8ymcLk" style="max-width:100%;border-radius:8px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 L'adolescenza, si sa, traccia un solco preciso nel cammino di ognuno di noi.  
 Per molti molti anni, i miei Amici sono stati la mia famiglia, le persone con cui ho diviso tutto, in un periodo in cui non c'era molto di materiale da dividere ma tanta generosità, affetto, ideali, spirito di comunità.

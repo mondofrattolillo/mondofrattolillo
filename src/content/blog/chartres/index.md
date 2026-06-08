@@ -21,7 +21,7 @@ tags:
   - "world"
 ---
 
-\[youtube https://www.youtube.com/watch?v=1UUnrtfSK5M?rel=0\]
+<iframe width="720" height="405" src="https://www.youtube.com/embed/1UUnrtfSK5M" style="max-width:100%;border-radius:8px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ##### [Chartres](http://www.cathedraledechartres.fr/ "sito ufficiale cattedrale") è una piccola località a poco meno di 100 chilometri da Parigi, nel sud-ovest dell'Ile de France.
 

@@ -25,7 +25,7 @@ _(¹ A partire dal 2019, anche in Francia il giorno dell'Epifania è riconosciut
 
 Abbiamo voluto fare quattro passi lungo il percorso più frequentato di Parigi, per vedere come viene vissuto il giorno della Befana da turisti ed abitanti della città.
 
-https://youtu.be/BXRv2K0e0tQ
+<iframe width="720" height="405" src="https://www.youtube.com/embed/BXRv2K0e0tQ" style="max-width:100%;border-radius:8px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Una breve passeggiata dalla **Tour Eiffel** fino al **Trocadero**, in una tranquilla mattinata di inizio anno.
 

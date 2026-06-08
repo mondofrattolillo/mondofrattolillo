@@ -34,6 +34,6 @@ Pour chaque pays que nous allons visiter, j'ai choisi une pièce que j'ai toujou
 
 ## Donc, voilà : votre bagage est désormais à bord. Décollage !..
 
-https://youtu.be/WjT3v36YRtc
+<iframe width="720" height="405" src="https://www.youtube.com/embed/WjT3v36YRtc" style="max-width:100%;border-radius:8px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ★★★★

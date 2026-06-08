@@ -15,7 +15,7 @@ tags:
   - "travel"
 ---
 
-\[youtube=http://www.youtube.com/watch?v=UfyFB82giag\]
+<iframe width="720" height="405" src="https://www.youtube.com/embed/UfyFB82giag" style="max-width:100%;border-radius:8px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > **FrAtTo_Family_ a Capo Vaticano – il video**
 

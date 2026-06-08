@@ -119,7 +119,7 @@ Il ritorno delle sue ceneri in patria fu accompagnato da funerali di stato e tra
 
 <figure>
 
-https://www.youtube.com/watch?v=xSPbgpy1HGM
+<iframe width="720" height="405" src="https://www.youtube.com/embed/xSPbgpy1HGM" style="max-width:100%;border-radius:8px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <figcaption>
 

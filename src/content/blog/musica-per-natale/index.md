@@ -6,7 +6,7 @@ categories:
   - "music"
 ---
 
-\[youtube=http://www.youtube.com/watch?v=QY4NZuOFebU\]
+<iframe width="720" height="405" src="https://www.youtube.com/embed/QY4NZuOFebU" style="max-width:100%;border-radius:8px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
  
 

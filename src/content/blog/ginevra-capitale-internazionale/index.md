@@ -8,7 +8,7 @@ categories:
 
 Ginevra, centro commerciale, bancario, industriale, intellettuale e universitario si estende all'estremità sud-ovest del [lago Lemano](https://it.wikipedia.org/wiki/Lago_Lemano), sulle due rive del [Rodano](https://it.wikipedia.org/wiki/Rodano), nel cuore di una conca chiusa e circondata da montagne (tutte in territorio francese: i [Voirons](https://it.wikipedia.org/w/index.php?title=Voirons&action=edit&redlink=1), il [Salève](https://it.wikipedia.org/w/index.php?title=Sal%C3%A8ve&action=edit&redlink=1), il [Mont de Sion](https://it.wikipedia.org/w/index.php?title=Mont_de_Sion&action=edit&redlink=1), il [Vuache](https://it.wikipedia.org/w/index.php?title=Vuache&action=edit&redlink=1) e la [catena montuosa del Jura](https://it.wikipedia.org/wiki/Massiccio_del_Giura)).
 
-https://youtu.be/GI-rhAlXqEs
+<iframe width="720" height="405" src="https://www.youtube.com/embed/GI-rhAlXqEs" style="max-width:100%;border-radius:8px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 La _vieille-ville_ (parte storica della città), costituita dai quartieri Centro della città e Saint-Gervais, si è formata sulla sommità e i dintorni di una collina sulla riva sinistra del lago. Questa collina costituisce sin dalla preistoria un rifugio naturale protetto dal lago, dal Rodano, dall'[Arve](https://it.wikipedia.org/wiki/Arve_\(fiume_Francia_e_Svizzera\)), dalle paludi e dai fossati a est. La città si espanse durante il XIX secolo, dopo la demolizione delle fortificazioni ([1850](https://it.wikipedia.org/wiki/1850)\-[1880](https://it.wikipedia.org/wiki/1880)).
 
