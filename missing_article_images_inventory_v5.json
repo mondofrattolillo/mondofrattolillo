@@ -1,0 +1,406 @@
+{
+  "articles_inventory": 19,
+  "articles": [
+    {
+      "slug": "ginevra-capitale-internazionale",
+      "missing_figcaptions": 2,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/ginevra-capitale-internazionale",
+      "image_file_count": 2,
+      "image_files": [
+        "GeMuseumofarts.JPG",
+        "ef89a-img_20200218_102029.jpg"
+      ],
+      "difference_images_minus_figcaptions": 0
+    },
+    {
+      "slug": "7-febbraio-2018-la-neve-a-parigi",
+      "missing_figcaptions": 19,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/7-febbraio-2018-la-neve-a-parigi",
+      "image_file_count": 18,
+      "image_files": [
+        "c96f9b20-0bde-11e8-a644-ef5ea3d72f0f.jpg",
+        "img_20180206_235037.jpg",
+        "img_20180207_085149.jpg",
+        "img_20180207_085200.jpg",
+        "img_20180207_085939-effects.jpg",
+        "img_20180207_091910_284.jpg",
+        "img_20180207_133341.jpg",
+        "img_20180208_091329_502.jpg",
+        "img_2266-1-940x627-1.jpg",
+        "img_9287-copie-1-768x1024-1.jpg",
+        "paris-sous-la-neige-neige-paris-metro-6.jpg",
+        "paris-sous-la-neige-neige-paris-montmartre-6-1.jpg",
+        "paris-sous-la-neige-neige-paris-moulin-rouge.jpg",
+        "paris-sous-la-neige-neige-paris-pigalle-2.jpg",
+        "paris-sous-la-neige-neige-paris-sacre-coeur.jpg",
+        "paris-sous-la-neige-neige-paris-tour-eiffel-3.jpg",
+        "paris-sous-la-neige-neige-paris-tour-eiffel-4.jpg",
+        "paris-sous-la-neige-neige-paris-tour-eiffel-6.jpg"
+      ],
+      "difference_images_minus_figcaptions": -1
+    },
+    {
+      "slug": "cern-dove-nacque-il-web",
+      "missing_figcaptions": 3,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/cern-dove-nacque-il-web",
+      "image_file_count": 4,
+      "image_files": [
+        "90a0c-marco_cern_2020.png",
+        "95a61-1440px-cern_aerial_view-1.jpg",
+        "a2659-cailliau_abramatic_berners-lee_10_years_www_consortium-1.png",
+        "e8fff-cern_2020.png"
+      ],
+      "difference_images_minus_figcaptions": 1
+    },
+    {
+      "slug": "italia-francia-cosi-uguali-cosi-diverse-aerosol-vs-kine",
+      "missing_figcaptions": 4,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/italia-francia-cosi-uguali-cosi-diverse-aerosol-vs-kine",
+      "image_file_count": 3,
+      "image_files": [
+        "Kinesitherapie-Brantome.jpg",
+        "aerosol-bambini_900x760.jpg",
+        "torticolis-congenital-institut-kinesitherapie-femme-paris.jpg"
+      ],
+      "difference_images_minus_figcaptions": -1
+    },
+    {
+      "slug": "addio-maestro",
+      "missing_figcaptions": 1,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/addio-maestro",
+      "image_file_count": 2,
+      "image_files": [
+        "b2689-c-era-una-volta-il-west-web1280.jpg",
+        "d4459-istantanea_2020-07-06_12-37-14.png"
+      ],
+      "difference_images_minus_figcaptions": 1
+    },
+    {
+      "slug": "parigi-a-novembre",
+      "missing_figcaptions": 3,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/parigi-a-novembre",
+      "image_file_count": 2,
+      "image_files": [
+        "rue-de-belleville-paris-2020.jpg",
+        "rue-denoyez-paris-belleville.jpg"
+      ],
+      "difference_images_minus_figcaptions": -1
+    },
+    {
+      "slug": "torino-e-la-piazza-castello",
+      "missing_figcaptions": 1,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/torino-e-la-piazza-castello",
+      "image_file_count": 2,
+      "image_files": [
+        "12fba-piazza_castello_9.jpg",
+        "adfae-piazza-castello-suite-pin-4.png"
+      ],
+      "difference_images_minus_figcaptions": 1
+    },
+    {
+      "slug": "nabulio-parigi-la-carne-in-scatola-la-baguette-e-legitto",
+      "missing_figcaptions": 1,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/nabulio-parigi-la-carne-in-scatola-la-baguette-e-legitto",
+      "image_file_count": 3,
+      "image_files": [
+        "1620050527748_istituto02.jpg",
+        "a090a102-8774-43d6-92e5-48f72189257f.jpg",
+        "copia_di_borse_primoli_0.jpg"
+      ],
+      "difference_images_minus_figcaptions": 2
+    },
+    {
+      "slug": "scheletri-parigi",
+      "missing_figcaptions": 1,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/scheletri-parigi",
+      "image_file_count": 3,
+      "image_files": [
+        "12PARIS2-superJumbo.jpg",
+        "35e15-4565455_dsc3949_545x460_autocrop-e1425427252330.jpg",
+        "paris_200_squelettes1-1.png"
+      ],
+      "difference_images_minus_figcaptions": 2
+    },
+    {
+      "slug": "anno-nuovo-vita-nuova",
+      "missing_figcaptions": 1,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/anno-nuovo-vita-nuova",
+      "image_file_count": 5,
+      "image_files": [
+        "86b23-cropped-img_20160627_190812.jpg",
+        "img_20180907_191729_022.jpg",
+        "pexels-photo-1652394.jpeg",
+        "pexels-photo-1652402.jpeg",
+        "pexels-photo-6027785.jpeg"
+      ],
+      "difference_images_minus_figcaptions": 4
+    },
+    {
+      "slug": "frontiere",
+      "missing_figcaptions": 2,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/frontiere",
+      "image_file_count": 7,
+      "image_files": [
+        "2af1a-img_20201026_001829-1.jpg",
+        "2b3b4-img_20201026_002232.jpg",
+        "43396-plan-region-geneve.jpg",
+        "be615-img_20201025_171009.jpg",
+        "d712b-img_20201026_001959.jpg",
+        "f130f-1084px-15-28-42-front.jpg",
+        "f2bbb-img_20201026_002135.jpg"
+      ],
+      "difference_images_minus_figcaptions": 5
+    },
+    {
+      "slug": "poubelle-luomo-dei-bidoni",
+      "missing_figcaptions": 1,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/poubelle-luomo-dei-bidoni",
+      "image_file_count": 7,
+      "image_files": [
+        "0df6c-0601929738353-web-tete-1.png",
+        "2ffdd-nouvelle-poubelle-design-paris.jpg",
+        "808a7-poubelles.jpg",
+        "beeba-744px-beaux-arts_de_carcassonne_-_buste_deugene_poubelle_-_denys_puech.jpg",
+        "c2dfa-rue_eugene_poubelle_plaque.jpg",
+        "cdc74-smart-city-analytics-paris.jpeg",
+        "f7e37-poubelle_trump-cdec1e-0401x.png"
+      ],
+      "difference_images_minus_figcaptions": 6
+    },
+    {
+      "slug": "new-york-new-york",
+      "missing_figcaptions": 6,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/new-york-new-york",
+      "image_file_count": 13,
+      "image_files": [
+        "2419e-bluenote.jpg",
+        "2759a-nyc-2007-57.png",
+        "43622-empiresb.jpg",
+        "50c56-nyc-2007-39.png",
+        "550a6-nyc-2007-31.png",
+        "5f5ba-landscape-1607075146077-2508.jpg",
+        "6a881-bull.jpg",
+        "6e4bd-bach_02.jpg",
+        "6f73a-nyc-2007-69.png",
+        "8f70a-nyc-2007-25.png",
+        "c7ec5-nyc-2007-13.png",
+        "ddebd-bach_01.jpg",
+        "ff89f-hotdog.jpg"
+      ],
+      "difference_images_minus_figcaptions": 7
+    },
+    {
+      "slug": "grandi-donne-parigine-francoise-demulder-fifi",
+      "missing_figcaptions": 3,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/grandi-donne-parigine-francoise-demulder-fifi",
+      "image_file_count": 10,
+      "image_files": [
+        "2115408_orig.jpg",
+        "364c9-856fa4f1d1ac31d2f99c7d0a7fb49938-documentary-photographers-female-photographers.jpg",
+        "4bb84-16596-1.jpg",
+        "5cec3-102611046_10223966054484355_8779260515028006208_n.jpg",
+        "79795-102920038_10223965982602558_7894731213830227685_n.jpg",
+        "aa4f8-432a1bba95d7e6d42e5fecb27b5f6e45-1.jpg",
+        "b787f-a9c38d4f735cd417369ee6d65dc3f037.jpg",
+        "beyrouth-gamma_396572.jpg",
+        "f9311-adieu_francoise_demulder_photo_du_jour_grand.jpg",
+        "ff1d1-432a1bba95d7e6d42e5fecb27b5f6e45.jpg"
+      ],
+      "difference_images_minus_figcaptions": 7
+    },
+    {
+      "slug": "huit-ans",
+      "missing_figcaptions": 16,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/huit-ans",
+      "image_file_count": 25,
+      "image_files": [
+        "011ce-2013-01-29-09.48.28.jpg",
+        "04913-pano_20131218_154013832.jpg",
+        "07054-c360_2013-12-12-20-40-52-577.jpg",
+        "100db-c360_2013-11-23-12-26-32-434.jpg",
+        "14353-pano_20130712_113524381.jpg",
+        "2d2ac-artsmetiers.jpg",
+        "40b0f-c360_2013-11-28-22-36-49-261.jpg",
+        "51572-c360_2013-12-17-18-31-00-802.jpg",
+        "52c6d-img_20181110_160626_781.jpg",
+        "59b5b-c360_2013-10-02-14-51-03-688.jpg",
+        "61bc3-c360_2013-12-18-17-52-19-500-snow.gif",
+        "61cc4-pano_20130425_183256422.jpg",
+        "720b0-c360_2013-12-12-22-19-25-911.jpg",
+        "7399e-unnamed.jpg",
+        "7aa56-2013-03-15-15.38.36.jpg",
+        "7c4a8-pano_20130503_111045232_pre_234649.jpg",
+        "7d37c-c360_2013-12-01-12-30-25-283.jpg",
+        "aaaaf-c360_2013-11-30-12-24-38-577.jpg",
+        "b2234-yvc4vu1.jpg",
+        "cc237-c360_2013-12-17-18-46-13-358-1.jpg",
+        "d0f32-pano_20130707_143450590.jpg",
+        "d37ff-c360_2013-12-20-16-46-08-398def.jpg",
+        "e29d0-pano_20130724_162727520.jpg",
+        "e74ab-c360_2013-12-17-18-12-00-416.jpg",
+        "fb618-c360_2013-12-12-22-22-35-975.jpg"
+      ],
+      "difference_images_minus_figcaptions": 9
+    },
+    {
+      "slug": "castello-di-fenis",
+      "missing_figcaptions": 17,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/castello-di-fenis",
+      "image_file_count": 29,
+      "image_files": [
+        "00524-img_20200816_165314385962573.jpg",
+        "12596-img_20200816_165646319856312.jpg",
+        "23371-img_20200816_1624521441186462.jpg",
+        "2bb54-img_20200816_171112779555358.jpg",
+        "3be4b-img_20200816_164732252000198.jpg",
+        "47295-img_20200816_164604347164383.jpg",
+        "51b5a-img_20200816_1639182088078450.jpg",
+        "545a5-img_20200816_162917760719949.jpg",
+        "6ba9f-img_20200816_170842621445338.jpg",
+        "6cef9-img_20200816_165247317070890.jpg",
+        "6d86d-img_20200816_164835677555601.jpg",
+        "712f2-img_20200816_1709001000024914.jpg",
+        "77849-img_20200816_165744340762714.jpg",
+        "815ca-img_20200816_17001268459020.jpg",
+        "84ba4-img_20200816_16382927501025.jpg",
+        "87010-img_20200816_1653081475038459.jpg",
+        "8a01f-img_20200816_170736685351322.jpg",
+        "8e510-img_20200816_170358468457035.jpg",
+        "a45ee-img_20200816_171117209184392.jpg",
+        "a7a10-img_20200816_1700291466561863.jpg",
+        "b0a1c-img_20200816_170040344423948.jpg",
+        "cc041-img_20200816_1639541311716051.jpg",
+        "cccd9-fenis_pan.png",
+        "d0c63-img_20200816_1634271063991163.jpg",
+        "edf34-img_20200816_165636654437308.jpg",
+        "f470f-img_20200816_170748369501798.jpg",
+        "f7a06-img_20200816_1655001274033988.jpg",
+        "fca0c-img_20200816_170854263408993.jpg",
+        "fdebb-img_20200816_1703061433531945.jpg"
+      ],
+      "difference_images_minus_figcaptions": 12
+    },
+    {
+      "slug": "dieci-anni",
+      "missing_figcaptions": 4,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/dieci-anni",
+      "image_file_count": 17,
+      "image_files": [
+        "0ca62-c360_2013-05-10-17-52-28-219.jpg",
+        "10419-c360_2013-08-25-17-36-17-444.jpg",
+        "523d8-312921-jesuis700.jpg",
+        "52c6d-img_20181110_160626_781.jpg",
+        "7399e-unnamed.jpg",
+        "86b23-cropped-img_20160627_190812.jpg",
+        "a8ba4-c360_2013-06-07-10-52-38-704.jpg",
+        "b2234-yvc4vu1.jpg",
+        "c360_2014-01-15-08-32-39-740.jpg",
+        "d37ff-c360_2013-12-20-16-46-08-398def.jpg",
+        "e29d0-pano_20130724_162727520.jpg",
+        "ee9c8-c360_2013-06-07-11-05-57-031.jpg",
+        "img_20180207_085200.jpg",
+        "img_20180207_133341.jpg",
+        "img_2221-1-1.jpg",
+        "pano_20130707_143450590.jpg",
+        "pexels-photo-1308940.jpeg"
+      ],
+      "difference_images_minus_figcaptions": 13
+    },
+    {
+      "slug": "il-mondo-al-tempo-del-corona-virus",
+      "missing_figcaptions": 1,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/il-mondo-al-tempo-del-corona-virus",
+      "image_file_count": 28,
+      "image_files": [
+        "12043-coronavirus-mondo-5_barcelona.jpg",
+        "1e22a-coronavirus-mondo-11_bangkok_takeaway.jpg",
+        "20c63-coronavirus-mondo-37_rockford_il.jpg",
+        "2d257-coronavirus-mondo-13_belgrad.jpg",
+        "4a0a9-coronavirus-mondo-3_aus.jpg",
+        "6368c-coronavirus-mondo-24_istanbul.jpg",
+        "67145-coronavirus-mondo-22_rio.jpg",
+        "79256-coronavirus-mondo-35_istanbul.jpg",
+        "7ff4c-coronavirus-mondo-9_stephane_senechal_paris.jpg",
+        "82e5a-coronavirus-mondo-31_wuhan.jpg",
+        "8c47c-coronavirus-mondo-28_wien.jpg",
+        "915d5-coronavirus-mondo-26.jpg",
+        "92034-coronavirus-mondo-8_paris.jpg",
+        "947aa-coronavirus-mondo-16_chicago.jpg",
+        "a461b-coronavirus-mondo-17_hungary_remote_school.jpg",
+        "bcae9-coronavirus-mondo-14.jpg",
+        "ca27c-coronavirus-mondo-1.jpg",
+        "cd5d9-coronavirus-mondo-38_madrid.jpg",
+        "dd232-coronavirus-mondo-20.jpg",
+        "e39f0-coronavirus-mondo-33_trafalgarsq.jpg",
+        "e90ff-coronavirus-mondo-6_barcelona.jpg",
+        "ea341-coronavirus-mondo-2_windsor.jpg",
+        "edf9c-coronavirus-mondo-12.jpg",
+        "f4633-coronavirus-mondo-30_ocean_drive.jpg",
+        "f71ec-coronavirus-mondo-27_berlin.jpg",
+        "f9a73-coronavirus-mondo-10_la_apt.jpg",
+        "fc490-coronavirus-mondo-18_giza.jpg",
+        "riduzione-inquinamento-999x562.png"
+      ],
+      "difference_images_minus_figcaptions": 27
+    },
+    {
+      "slug": "ruote-dargento-2019",
+      "missing_figcaptions": 1,
+      "image_dir_exists": true,
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/ruote-dargento-2019",
+      "image_file_count": 31,
+      "image_files": [
+        "0144a-img_20190602_114119.jpg",
+        "04ba4-img_20190602_115455.jpg",
+        "08796-img_20190602_114603.jpg",
+        "0acc9-img_20190602_113753.jpg",
+        "0fd95-img_20190602_120336.jpg",
+        "166df-cover03201901.jpg",
+        "19c06-img_20190602_115222.jpg",
+        "19ca1-img_20190602_120324.jpg",
+        "1e865-img_20190602_114622.jpg",
+        "1fe6f-img_20190602_114349.jpg",
+        "3ded8-img_20190602_114441.jpg",
+        "45f6e-img_20190602_120526.jpg",
+        "57191-img_20190602_115438.jpg",
+        "5b80c-img_20190602_115248.jpg",
+        "61c84-img_20190602_114531.jpg",
+        "72615-img_20190602_120430.jpg",
+        "8f6fd-img_20190602_113727.jpg",
+        "990ee-img_20190602_114850.jpg",
+        "9fab0-img_20190602_114840.jpg",
+        "abdd4-img_20190602_114539.jpg",
+        "ac9af-img_20190602_115818.jpg",
+        "c336b-img_20190602_115007.jpg",
+        "c947e-img_20190602_115236.jpg",
+        "cf211-img_20190602_115326.jpg",
+        "d7f24-img_20190602_115645.jpg",
+        "db584-img_20190602_113741.jpg",
+        "edb6e-img_20190602_115026.jpg",
+        "f0060-img_20190602_115052.jpg",
+        "f05a9-img_20190602_115530.jpg",
+        "f448c-img_20190602_120256.jpg",
+        "f9111-img_20190602_114647.jpg"
+      ],
+      "difference_images_minus_figcaptions": 30
+    }
+  ]
+}

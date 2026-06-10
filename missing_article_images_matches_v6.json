@@ -1,0 +1,846 @@
+{
+  "articles": [
+    {
+      "slug": "7-febbraio-2018-la-neve-a-parigi",
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/7-febbraio-2018-la-neve-a-parigi",
+      "image_file_count": 18,
+      "image_files": [
+        "c96f9b20-0bde-11e8-a644-ef5ea3d72f0f.jpg",
+        "img_20180206_235037.jpg",
+        "img_20180207_085149.jpg",
+        "img_20180207_085200.jpg",
+        "img_20180207_085939-effects.jpg",
+        "img_20180207_091910_284.jpg",
+        "img_20180207_133341.jpg",
+        "img_20180208_091329_502.jpg",
+        "img_2266-1-940x627-1.jpg",
+        "img_9287-copie-1-768x1024-1.jpg",
+        "paris-sous-la-neige-neige-paris-metro-6.jpg",
+        "paris-sous-la-neige-neige-paris-montmartre-6-1.jpg",
+        "paris-sous-la-neige-neige-paris-moulin-rouge.jpg",
+        "paris-sous-la-neige-neige-paris-pigalle-2.jpg",
+        "paris-sous-la-neige-neige-paris-sacre-coeur.jpg",
+        "paris-sous-la-neige-neige-paris-tour-eiffel-3.jpg",
+        "paris-sous-la-neige-neige-paris-tour-eiffel-4.jpg",
+        "paris-sous-la-neige-neige-paris-tour-eiffel-6.jpg"
+      ],
+      "matches": [
+        {
+          "line": 24,
+          "caption": "Champs de Mars 2018",
+          "top_candidates": [
+            {
+              "filename": "paris-sous-la-neige-neige-paris-pigalle-2.jpg",
+              "score": 33.33,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.333
+            },
+            {
+              "filename": "c96f9b20-0bde-11e8-a644-ef5ea3d72f0f.jpg",
+              "score": 32.73,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.327
+            },
+            {
+              "filename": "img_20180206_235037.jpg",
+              "score": 31.58,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.316
+            }
+          ]
+        },
+        {
+          "line": 36,
+          "caption": "Sacré cœur 2018",
+          "top_candidates": [
+            {
+              "filename": "paris-sous-la-neige-neige-paris-sacre-coeur.jpg",
+              "score": 51.03,
+              "overlap_tokens": [
+                "sacre"
+              ],
+              "similarity_ratio": 0.31
+            },
+            {
+              "filename": "img_20180206_235037.jpg",
+              "score": 29.41,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.294
+            },
+            {
+              "filename": "img_20180207_085149.jpg",
+              "score": 29.41,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.294
+            }
+          ]
+        },
+        {
+          "line": 48,
+          "caption": "Sacré cœur 2018",
+          "top_candidates": [
+            {
+              "filename": "paris-sous-la-neige-neige-paris-sacre-coeur.jpg",
+              "score": 51.03,
+              "overlap_tokens": [
+                "sacre"
+              ],
+              "similarity_ratio": 0.31
+            },
+            {
+              "filename": "img_20180206_235037.jpg",
+              "score": 29.41,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.294
+            },
+            {
+              "filename": "img_20180207_085149.jpg",
+              "score": 29.41,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.294
+            }
+          ]
+        },
+        {
+          "line": 60,
+          "caption": "Tour Eiffel 2018",
+          "top_candidates": [
+            {
+              "filename": "paris-sous-la-neige-neige-paris-tour-eiffel-3.jpg",
+              "score": 79.34,
+              "overlap_tokens": [
+                "eiffel",
+                "tour"
+              ],
+              "similarity_ratio": 0.393
+            },
+            {
+              "filename": "paris-sous-la-neige-neige-paris-tour-eiffel-4.jpg",
+              "score": 79.34,
+              "overlap_tokens": [
+                "eiffel",
+                "tour"
+              ],
+              "similarity_ratio": 0.393
+            },
+            {
+              "filename": "paris-sous-la-neige-neige-paris-tour-eiffel-6.jpg",
+              "score": 79.34,
+              "overlap_tokens": [
+                "eiffel",
+                "tour"
+              ],
+              "similarity_ratio": 0.393
+            }
+          ]
+        },
+        {
+          "line": 72,
+          "caption": "Bir-Hakeim 2018",
+          "top_candidates": [
+            {
+              "filename": "img_20180206_235037.jpg",
+              "score": 41.18,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.412
+            },
+            {
+              "filename": "img_20180207_085149.jpg",
+              "score": 41.18,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.412
+            },
+            {
+              "filename": "img_20180207_085200.jpg",
+              "score": 41.18,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.412
+            }
+          ]
+        },
+        {
+          "line": 101,
+          "caption": "Les Épinettes 2018",
+          "top_candidates": [
+            {
+              "filename": "img_20180206_235037.jpg",
+              "score": 32.43,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.324
+            },
+            {
+              "filename": "img_20180207_085149.jpg",
+              "score": 32.43,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.324
+            },
+            {
+              "filename": "img_20180207_085200.jpg",
+              "score": 32.43,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.324
+            }
+          ]
+        },
+        {
+          "line": 113,
+          "caption": "École des Épinettes 2018",
+          "top_candidates": [
+            {
+              "filename": "c96f9b20-0bde-11e8-a644-ef5ea3d72f0f.jpg",
+              "score": 30.0,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.3
+            },
+            {
+              "filename": "paris-sous-la-neige-neige-paris-tour-eiffel-3.jpg",
+              "score": 28.99,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.29
+            },
+            {
+              "filename": "paris-sous-la-neige-neige-paris-tour-eiffel-4.jpg",
+              "score": 28.99,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.29
+            }
+          ]
+        },
+        {
+          "line": 125,
+          "caption": "Les Épinettes 2018",
+          "top_candidates": [
+            {
+              "filename": "img_20180206_235037.jpg",
+              "score": 32.43,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.324
+            },
+            {
+              "filename": "img_20180207_085149.jpg",
+              "score": 32.43,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.324
+            },
+            {
+              "filename": "img_20180207_085200.jpg",
+              "score": 32.43,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.324
+            }
+          ]
+        },
+        {
+          "line": 137,
+          "caption": "Les Épinettes 2018",
+          "top_candidates": [
+            {
+              "filename": "img_20180206_235037.jpg",
+              "score": 32.43,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.324
+            },
+            {
+              "filename": "img_20180207_085149.jpg",
+              "score": 32.43,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.324
+            },
+            {
+              "filename": "img_20180207_085200.jpg",
+              "score": 32.43,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.324
+            }
+          ]
+        },
+        {
+          "line": 149,
+          "caption": "Issy-les-Moulineaux, Parc Rodin 2018",
+          "top_candidates": [
+            {
+              "filename": "paris-sous-la-neige-neige-paris-metro-6.jpg",
+              "score": 43.24,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.432
+            },
+            {
+              "filename": "paris-sous-la-neige-neige-paris-moulin-rouge.jpg",
+              "score": 43.04,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.43
+            },
+            {
+              "filename": "paris-sous-la-neige-neige-paris-pigalle-2.jpg",
+              "score": 42.11,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.421
+            }
+          ]
+        },
+        {
+          "line": 161,
+          "caption": "Les Épinettes 2018",
+          "top_candidates": [
+            {
+              "filename": "img_20180206_235037.jpg",
+              "score": 32.43,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.324
+            },
+            {
+              "filename": "img_20180207_085149.jpg",
+              "score": 32.43,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.324
+            },
+            {
+              "filename": "img_20180207_085200.jpg",
+              "score": 32.43,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.324
+            }
+          ]
+        },
+        {
+          "line": 173,
+          "caption": "École des Épinettes 2018",
+          "top_candidates": [
+            {
+              "filename": "c96f9b20-0bde-11e8-a644-ef5ea3d72f0f.jpg",
+              "score": 30.0,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.3
+            },
+            {
+              "filename": "paris-sous-la-neige-neige-paris-tour-eiffel-3.jpg",
+              "score": 28.99,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.29
+            },
+            {
+              "filename": "paris-sous-la-neige-neige-paris-tour-eiffel-4.jpg",
+              "score": 28.99,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.29
+            }
+          ]
+        },
+        {
+          "line": 185,
+          "caption": "Les Épinettes 2018",
+          "top_candidates": [
+            {
+              "filename": "img_20180206_235037.jpg",
+              "score": 32.43,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.324
+            },
+            {
+              "filename": "img_20180207_085149.jpg",
+              "score": 32.43,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.324
+            },
+            {
+              "filename": "img_20180207_085200.jpg",
+              "score": 32.43,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.324
+            }
+          ]
+        },
+        {
+          "line": 197,
+          "caption": "Les Épinettes 2018",
+          "top_candidates": [
+            {
+              "filename": "img_20180206_235037.jpg",
+              "score": 32.43,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.324
+            },
+            {
+              "filename": "img_20180207_085149.jpg",
+              "score": 32.43,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.324
+            },
+            {
+              "filename": "img_20180207_085200.jpg",
+              "score": 32.43,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.324
+            }
+          ]
+        },
+        {
+          "line": 214,
+          "caption": "Tour Eiffel 2018",
+          "top_candidates": [
+            {
+              "filename": "paris-sous-la-neige-neige-paris-tour-eiffel-3.jpg",
+              "score": 79.34,
+              "overlap_tokens": [
+                "eiffel",
+                "tour"
+              ],
+              "similarity_ratio": 0.393
+            },
+            {
+              "filename": "paris-sous-la-neige-neige-paris-tour-eiffel-4.jpg",
+              "score": 79.34,
+              "overlap_tokens": [
+                "eiffel",
+                "tour"
+              ],
+              "similarity_ratio": 0.393
+            },
+            {
+              "filename": "paris-sous-la-neige-neige-paris-tour-eiffel-6.jpg",
+              "score": 79.34,
+              "overlap_tokens": [
+                "eiffel",
+                "tour"
+              ],
+              "similarity_ratio": 0.393
+            }
+          ]
+        },
+        {
+          "line": 226,
+          "caption": "Montmartre 2018",
+          "top_candidates": [
+            {
+              "filename": "paris-sous-la-neige-neige-paris-montmartre-6-1.jpg",
+              "score": 59.34,
+              "overlap_tokens": [
+                "montmartre"
+              ],
+              "similarity_ratio": 0.393
+            },
+            {
+              "filename": "img_20180206_235037.jpg",
+              "score": 35.29,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.353
+            },
+            {
+              "filename": "img_20180207_085149.jpg",
+              "score": 35.29,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.353
+            }
+          ]
+        },
+        {
+          "line": 238,
+          "caption": "Pigalle 2018",
+          "top_candidates": [
+            {
+              "filename": "paris-sous-la-neige-neige-paris-pigalle-2.jpg",
+              "score": 53.96,
+              "overlap_tokens": [
+                "pigalle"
+              ],
+              "similarity_ratio": 0.34
+            },
+            {
+              "filename": "img_20180206_235037.jpg",
+              "score": 45.16,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.452
+            },
+            {
+              "filename": "img_20180207_085149.jpg",
+              "score": 45.16,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.452
+            }
+          ]
+        },
+        {
+          "line": 250,
+          "caption": "Pigalle 2018",
+          "top_candidates": [
+            {
+              "filename": "paris-sous-la-neige-neige-paris-pigalle-2.jpg",
+              "score": 53.96,
+              "overlap_tokens": [
+                "pigalle"
+              ],
+              "similarity_ratio": 0.34
+            },
+            {
+              "filename": "img_20180206_235037.jpg",
+              "score": 45.16,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.452
+            },
+            {
+              "filename": "img_20180207_085149.jpg",
+              "score": 45.16,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.452
+            }
+          ]
+        },
+        {
+          "line": 262,
+          "caption": "Métro 6 2018",
+          "top_candidates": [
+            {
+              "filename": "paris-sous-la-neige-neige-paris-metro-6.jpg",
+              "score": 47.45,
+              "overlap_tokens": [
+                "metro"
+              ],
+              "similarity_ratio": 0.275
+            },
+            {
+              "filename": "img_20180206_235037.jpg",
+              "score": 38.71,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.387
+            },
+            {
+              "filename": "img_20180207_085149.jpg",
+              "score": 38.71,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.387
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "italia-francia-cosi-uguali-cosi-diverse-aerosol-vs-kine",
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/italia-francia-cosi-uguali-cosi-diverse-aerosol-vs-kine",
+      "image_file_count": 3,
+      "image_files": [
+        "Kinesitherapie-Brantome.jpg",
+        "aerosol-bambini_900x760.jpg",
+        "torticolis-congenital-institut-kinesitherapie-femme-paris.jpg"
+      ],
+      "matches": [
+        {
+          "line": 34,
+          "caption": "_\\[ foto da [PianetaMamma](https://www.pianetamamma.it/il-bambino/malattie/aerosol-bambini-modelli-come-usare.html) \\]_",
+          "top_candidates": [
+            {
+              "filename": "aerosol-bambini_900x760.jpg",
+              "score": 23.26,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.233
+            },
+            {
+              "filename": "torticolis-congenital-institut-kinesitherapie-femme-paris.jpg",
+              "score": 18.18,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.182
+            },
+            {
+              "filename": "Kinesitherapie-Brantome.jpg",
+              "score": 13.95,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.14
+            }
+          ]
+        },
+        {
+          "line": 54,
+          "caption": "_\\[ foto dal web \\]_",
+          "top_candidates": [
+            {
+              "filename": "aerosol-bambini_900x760.jpg",
+              "score": 28.57,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.286
+            },
+            {
+              "filename": "torticolis-congenital-institut-kinesitherapie-femme-paris.jpg",
+              "score": 20.29,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.203
+            },
+            {
+              "filename": "Kinesitherapie-Brantome.jpg",
+              "score": 17.14,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.171
+            }
+          ]
+        },
+        {
+          "line": 70,
+          "caption": "_\\[ foto dal web \\]_",
+          "top_candidates": [
+            {
+              "filename": "aerosol-bambini_900x760.jpg",
+              "score": 28.57,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.286
+            },
+            {
+              "filename": "torticolis-congenital-institut-kinesitherapie-femme-paris.jpg",
+              "score": 20.29,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.203
+            },
+            {
+              "filename": "Kinesitherapie-Brantome.jpg",
+              "score": 17.14,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.171
+            }
+          ]
+        },
+        {
+          "line": 92,
+          "caption": "_\\[ foto [Kiné-Brantôm](https://www.kines-brantome.fr/sante/kinesitherapie/) \\]_",
+          "top_candidates": [
+            {
+              "filename": "Kinesitherapie-Brantome.jpg",
+              "score": 60.0,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.6
+            },
+            {
+              "filename": "aerosol-bambini_900x760.jpg",
+              "score": 30.0,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.3
+            },
+            {
+              "filename": "torticolis-congenital-institut-kinesitherapie-femme-paris.jpg",
+              "score": 27.03,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "cern-dove-nacque-il-web",
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/cern-dove-nacque-il-web",
+      "image_file_count": 4,
+      "image_files": [
+        "90a0c-marco_cern_2020.png",
+        "95a61-1440px-cern_aerial_view-1.jpg",
+        "a2659-cailliau_abramatic_berners-lee_10_years_www_consortium-1.png",
+        "e8fff-cern_2020.png"
+      ],
+      "matches": [
+        {
+          "line": 21,
+          "caption": "_CERN, alle mie spalle il Globe de la Science et de l'Innovation_",
+          "top_candidates": [
+            {
+              "filename": "95a61-1440px-cern_aerial_view-1.jpg",
+              "score": 43.66,
+              "overlap_tokens": [
+                "cern"
+              ],
+              "similarity_ratio": 0.237
+            },
+            {
+              "filename": "e8fff-cern_2020.png",
+              "score": 32.99,
+              "overlap_tokens": [
+                "cern"
+              ],
+              "similarity_ratio": 0.13
+            },
+            {
+              "filename": "90a0c-marco_cern_2020.png",
+              "score": 32.05,
+              "overlap_tokens": [
+                "cern"
+              ],
+              "similarity_ratio": 0.12
+            }
+          ]
+        },
+        {
+          "line": 33,
+          "caption": "_Vista aerea dell'area del CERN \\[foto di Michael Schoenitzer - CERN_\\]",
+          "top_candidates": [
+            {
+              "filename": "95a61-1440px-cern_aerial_view-1.jpg",
+              "score": 49.79,
+              "overlap_tokens": [
+                "cern"
+              ],
+              "similarity_ratio": 0.298
+            },
+            {
+              "filename": "90a0c-marco_cern_2020.png",
+              "score": 43.81,
+              "overlap_tokens": [
+                "cern"
+              ],
+              "similarity_ratio": 0.238
+            },
+            {
+              "filename": "e8fff-cern_2020.png",
+              "score": 37.95,
+              "overlap_tokens": [
+                "cern"
+              ],
+              "similarity_ratio": 0.179
+            }
+          ]
+        },
+        {
+          "line": 67,
+          "caption": "_La prima pagina web trasmessa su internet _",
+          "top_candidates": [
+            {
+              "filename": "90a0c-marco_cern_2020.png",
+              "score": 25.81,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.258
+            },
+            {
+              "filename": "a2659-cailliau_abramatic_berners-lee_10_years_www_consortium-1.png",
+              "score": 25.24,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.252
+            },
+            {
+              "filename": "95a61-1440px-cern_aerial_view-1.jpg",
+              "score": 22.22,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.222
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "parigi-a-novembre",
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/parigi-a-novembre",
+      "image_file_count": 2,
+      "image_files": [
+        "rue-de-belleville-paris-2020.jpg",
+        "rue-denoyez-paris-belleville.jpg"
+      ],
+      "matches": [
+        {
+          "line": 28,
+          "caption": "_Rue Denoyez a Belleville_ - _foto di Myrabella_",
+          "top_candidates": [
+            {
+              "filename": "rue-denoyez-paris-belleville.jpg",
+              "score": 128.57,
+              "overlap_tokens": [
+                "belleville",
+                "denoyez",
+                "rue"
+              ],
+              "similarity_ratio": 0.686
+            },
+            {
+              "filename": "rue-de-belleville-paris-2020.jpg",
+              "score": 94.29,
+              "overlap_tokens": [
+                "belleville",
+                "rue"
+              ],
+              "similarity_ratio": 0.543
+            }
+          ]
+        },
+        {
+          "line": 66,
+          "caption": "_\\[Rue Denoyez, XIX arr. - foto di Myrabella \\]_",
+          "top_candidates": [
+            {
+              "filename": "rue-denoyez-paris-belleville.jpg",
+              "score": 98.46,
+              "overlap_tokens": [
+                "denoyez",
+                "rue"
+              ],
+              "similarity_ratio": 0.585
+            },
+            {
+              "filename": "rue-de-belleville-paris-2020.jpg",
+              "score": 56.92,
+              "overlap_tokens": [
+                "rue"
+              ],
+              "similarity_ratio": 0.369
+            }
+          ]
+        },
+        {
+          "line": 86,
+          "caption": "_\\[ il soffitto della sala dell’Opéra Garnier affrescato da Chagall – foto M. Bena \\]_",
+          "top_candidates": [
+            {
+              "filename": "rue-de-belleville-paris-2020.jpg",
+              "score": 25.24,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.252
+            },
+            {
+              "filename": "rue-denoyez-paris-belleville.jpg",
+              "score": 25.24,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.252
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ginevra-capitale-internazionale",
+      "image_dir": "/home/marco/Documents/mondofrattolillo-site/public/blog-images/ginevra-capitale-internazionale",
+      "image_file_count": 2,
+      "image_files": [
+        "GeMuseumofarts.JPG",
+        "ef89a-img_20200218_102029.jpg"
+      ],
+      "matches": [
+        {
+          "line": 63,
+          "caption": "_Musée des Arts_",
+          "top_candidates": [
+            {
+              "filename": "GeMuseumofarts.JPG",
+              "score": 57.14,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.571
+            },
+            {
+              "filename": "ef89a-img_20200218_102029.jpg",
+              "score": 15.38,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.154
+            }
+          ]
+        },
+        {
+          "line": 124,
+          "caption": "_Salone dell'Auto_",
+          "top_candidates": [
+            {
+              "filename": "GeMuseumofarts.JPG",
+              "score": 20.0,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.2
+            },
+            {
+              "filename": "ef89a-img_20200218_102029.jpg",
+              "score": 14.63,
+              "overlap_tokens": [],
+              "similarity_ratio": 0.146
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

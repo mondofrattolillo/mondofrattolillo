@@ -1,0 +1,660 @@
+{
+  "articles_audited": 19,
+  "articles": [
+    {
+      "slug": "7-febbraio-2018-la-neve-a-parigi",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/7-febbraio-2018-la-neve-a-parigi/index.md",
+      "figcaption_without_image_count": 19,
+      "missing_figcaptions": [
+        {
+          "line": 24,
+          "type": "figcaption_without_image",
+          "caption": "Champs de Mars 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 36,
+          "type": "figcaption_without_image",
+          "caption": "Sacré cœur 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 48,
+          "type": "figcaption_without_image",
+          "caption": "Sacré cœur 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 60,
+          "type": "figcaption_without_image",
+          "caption": "Tour Eiffel 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 72,
+          "type": "figcaption_without_image",
+          "caption": "Bir-Hakeim 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 101,
+          "type": "figcaption_without_image",
+          "caption": "Les Épinettes 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 113,
+          "type": "figcaption_without_image",
+          "caption": "École des Épinettes 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 125,
+          "type": "figcaption_without_image",
+          "caption": "Les Épinettes 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 137,
+          "type": "figcaption_without_image",
+          "caption": "Les Épinettes 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 149,
+          "type": "figcaption_without_image",
+          "caption": "Issy-les-Moulineaux, Parc Rodin 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 161,
+          "type": "figcaption_without_image",
+          "caption": "Les Épinettes 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 173,
+          "type": "figcaption_without_image",
+          "caption": "École des Épinettes 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 185,
+          "type": "figcaption_without_image",
+          "caption": "Les Épinettes 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 197,
+          "type": "figcaption_without_image",
+          "caption": "Les Épinettes 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 214,
+          "type": "figcaption_without_image",
+          "caption": "Tour Eiffel 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 226,
+          "type": "figcaption_without_image",
+          "caption": "Montmartre 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 238,
+          "type": "figcaption_without_image",
+          "caption": "Pigalle 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 250,
+          "type": "figcaption_without_image",
+          "caption": "Pigalle 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 262,
+          "type": "figcaption_without_image",
+          "caption": "Métro 6 2018",
+          "preceding_image": null
+        }
+      ]
+    },
+    {
+      "slug": "castello-di-fenis",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/castello-di-fenis/index.md",
+      "figcaption_without_image_count": 17,
+      "missing_figcaptions": [
+        {
+          "line": 55,
+          "type": "figcaption_without_image",
+          "caption": "Affresco raffigurante San Cristoforo, protettore dei viaggiatori",
+          "preceding_image": null
+        },
+        {
+          "line": 82,
+          "type": "figcaption_without_image",
+          "caption": "Modello del Castello",
+          "preceding_image": null
+        },
+        {
+          "line": 94,
+          "type": "figcaption_without_image",
+          "caption": "Gli affreschi del cortile, con i colori del casato Challant",
+          "preceding_image": null
+        },
+        {
+          "line": 106,
+          "type": "figcaption_without_image",
+          "caption": "Affresco del cortile interno",
+          "preceding_image": null
+        },
+        {
+          "line": 118,
+          "type": "figcaption_without_image",
+          "caption": "Oggetti medievali delle valli alpine",
+          "preceding_image": null
+        },
+        {
+          "line": 130,
+          "type": "figcaption_without_image",
+          "caption": "Il camino della cucina",
+          "preceding_image": null
+        },
+        {
+          "line": 142,
+          "type": "figcaption_without_image",
+          "caption": "La cappella privata",
+          "preceding_image": null
+        },
+        {
+          "line": 154,
+          "type": "figcaption_without_image",
+          "caption": "Cappella: lato dell'altare con affreschi degli apostoli e di alcuni santi",
+          "preceding_image": null
+        },
+        {
+          "line": 168,
+          "type": "figcaption_without_image",
+          "caption": "Cristo ligneo ritrovato nella chiesa di Fénis nel 1700",
+          "preceding_image": null
+        },
+        {
+          "line": 180,
+          "type": "figcaption_without_image",
+          "caption": "Camino del salone del tribunale",
+          "preceding_image": null
+        },
+        {
+          "line": 192,
+          "type": "figcaption_without_image",
+          "caption": "La differenza tra le finestre del 1300 e quelle del 1400. Anche il pavimento è stato ribassato",
+          "preceding_image": null
+        },
+        {
+          "line": 204,
+          "type": "figcaption_without_image",
+          "caption": "Sala da pranzo patronale",
+          "preceding_image": null
+        },
+        {
+          "line": 218,
+          "type": "figcaption_without_image",
+          "caption": "particolare del lavabo della sala da pranzo",
+          "preceding_image": null
+        },
+        {
+          "line": 230,
+          "type": "figcaption_without_image",
+          "caption": "Camino della camera da letto del conte",
+          "preceding_image": null
+        },
+        {
+          "line": 242,
+          "type": "figcaption_without_image",
+          "caption": "Dettaglio del camino con simbolo araldico",
+          "preceding_image": null
+        },
+        {
+          "line": 254,
+          "type": "figcaption_without_image",
+          "caption": "Camera da letto del conte (letto non originale)",
+          "preceding_image": null
+        },
+        {
+          "line": 266,
+          "type": "figcaption_without_image",
+          "caption": "Cassapanca per corredo (provenienza Savoia)",
+          "preceding_image": null
+        }
+      ]
+    },
+    {
+      "slug": "huit-ans",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/huit-ans/index.md",
+      "figcaption_without_image_count": 16,
+      "missing_figcaptions": [
+        {
+          "line": 46,
+          "type": "figcaption_without_image",
+          "caption": "Iran Air - Champs-Élysées",
+          "preceding_image": null
+        },
+        {
+          "line": 65,
+          "type": "figcaption_without_image",
+          "caption": "giochi in giardino \\[2013\\]",
+          "preceding_image": null
+        },
+        {
+          "line": 77,
+          "type": "figcaption_without_image",
+          "caption": "Auusterlitz",
+          "preceding_image": null
+        },
+        {
+          "line": 89,
+          "type": "figcaption_without_image",
+          "caption": "Parc André Citroën",
+          "preceding_image": null
+        },
+        {
+          "line": 101,
+          "type": "figcaption_without_image",
+          "caption": "Palais Royal",
+          "preceding_image": null
+        },
+        {
+          "line": 113,
+          "type": "figcaption_without_image",
+          "caption": "il passaggio di Beaugrenelle (quando era aperto)",
+          "preceding_image": null
+        },
+        {
+          "line": 132,
+          "type": "figcaption_without_image",
+          "caption": "XVI arrondissement",
+          "preceding_image": null
+        },
+        {
+          "line": 144,
+          "type": "figcaption_without_image",
+          "caption": "Ostetrica in sciopero!",
+          "preceding_image": null
+        },
+        {
+          "line": 156,
+          "type": "figcaption_without_image",
+          "caption": "in cima al Beaubourg",
+          "preceding_image": null
+        },
+        {
+          "line": 168,
+          "type": "figcaption_without_image",
+          "caption": "Métro Alma-Marceau",
+          "preceding_image": null
+        },
+        {
+          "line": 194,
+          "type": "figcaption_without_image",
+          "caption": "mercato rionale",
+          "preceding_image": null
+        },
+        {
+          "line": 206,
+          "type": "figcaption_without_image",
+          "caption": "Parc Sainte-Périne",
+          "preceding_image": null
+        },
+        {
+          "line": 218,
+          "type": "figcaption_without_image",
+          "caption": "Opéra Garnier \\[01\\]",
+          "preceding_image": null
+        },
+        {
+          "line": 230,
+          "type": "figcaption_without_image",
+          "caption": "Opéra Garnier \\[02\\]",
+          "preceding_image": null
+        },
+        {
+          "line": 242,
+          "type": "figcaption_without_image",
+          "caption": "Opéra Garnier \\[03\\]",
+          "preceding_image": null
+        },
+        {
+          "line": 254,
+          "type": "figcaption_without_image",
+          "caption": "Beaugrenelle sotto la neve",
+          "preceding_image": null
+        }
+      ]
+    },
+    {
+      "slug": "new-york-new-york",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/new-york-new-york/index.md",
+      "figcaption_without_image_count": 6,
+      "missing_figcaptions": [
+        {
+          "line": 24,
+          "type": "figcaption_without_image",
+          "caption": "HotDog a Manhattan",
+          "preceding_image": null
+        },
+        {
+          "line": 36,
+          "type": "figcaption_without_image",
+          "caption": "Piano Time 01",
+          "preceding_image": null
+        },
+        {
+          "line": 48,
+          "type": "figcaption_without_image",
+          "caption": "Piano Time 02",
+          "preceding_image": null
+        },
+        {
+          "line": 60,
+          "type": "figcaption_without_image",
+          "caption": "Wall Street",
+          "preceding_image": null
+        },
+        {
+          "line": 72,
+          "type": "figcaption_without_image",
+          "caption": "Blue Note",
+          "preceding_image": null
+        },
+        {
+          "line": 136,
+          "type": "figcaption_without_image",
+          "caption": "Manhattan",
+          "preceding_image": null
+        }
+      ]
+    },
+    {
+      "slug": "dieci-anni",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/dieci-anni/index.md",
+      "figcaption_without_image_count": 4,
+      "missing_figcaptions": [
+        {
+          "line": 47,
+          "type": "figcaption_without_image",
+          "caption": "Musée de l'Armée",
+          "preceding_image": null
+        },
+        {
+          "line": 69,
+          "type": "figcaption_without_image",
+          "caption": "Palais Royal",
+          "preceding_image": null
+        },
+        {
+          "line": 87,
+          "type": "figcaption_without_image",
+          "caption": "École des Épinettes 2018",
+          "preceding_image": null
+        },
+        {
+          "line": 99,
+          "type": "figcaption_without_image",
+          "caption": "École des Épinettes 2018",
+          "preceding_image": null
+        }
+      ]
+    },
+    {
+      "slug": "italia-francia-cosi-uguali-cosi-diverse-aerosol-vs-kine",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/italia-francia-cosi-uguali-cosi-diverse-aerosol-vs-kine/index.md",
+      "figcaption_without_image_count": 4,
+      "missing_figcaptions": [
+        {
+          "line": 34,
+          "type": "figcaption_without_image",
+          "caption": "_\\[ foto da [PianetaMamma](https://www.pianetamamma.it/il-bambino/malattie/aerosol-bambini-modelli-come-usare.html) \\]_",
+          "preceding_image": null
+        },
+        {
+          "line": 54,
+          "type": "figcaption_without_image",
+          "caption": "_\\[ foto dal web \\]_",
+          "preceding_image": null
+        },
+        {
+          "line": 70,
+          "type": "figcaption_without_image",
+          "caption": "_\\[ foto dal web \\]_",
+          "preceding_image": null
+        },
+        {
+          "line": 92,
+          "type": "figcaption_without_image",
+          "caption": "_\\[ foto [Kiné-Brantôm](https://www.kines-brantome.fr/sante/kinesitherapie/) \\]_",
+          "preceding_image": null
+        }
+      ]
+    },
+    {
+      "slug": "cern-dove-nacque-il-web",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/cern-dove-nacque-il-web/index.md",
+      "figcaption_without_image_count": 3,
+      "missing_figcaptions": [
+        {
+          "line": 21,
+          "type": "figcaption_without_image",
+          "caption": "_CERN, alle mie spalle il Globe de la Science et de l'Innovation_",
+          "preceding_image": null
+        },
+        {
+          "line": 33,
+          "type": "figcaption_without_image",
+          "caption": "_Vista aerea dell'area del CERN \\[foto di Michael Schoenitzer - CERN_\\]",
+          "preceding_image": null
+        },
+        {
+          "line": 67,
+          "type": "figcaption_without_image",
+          "caption": "_La prima pagina web trasmessa su internet _",
+          "preceding_image": null
+        }
+      ]
+    },
+    {
+      "slug": "grandi-donne-parigine-francoise-demulder-fifi",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/grandi-donne-parigine-francoise-demulder-fifi/index.md",
+      "figcaption_without_image_count": 3,
+      "missing_figcaptions": [
+        {
+          "line": 25,
+          "type": "figcaption_without_image",
+          "caption": "_FRANÇOISE DEMULDER ( \"FIFI \" ) \\[Parigi, 9 giugno 1947 - Levallois-Perret, 3 settembre 2008\\]_",
+          "preceding_image": null
+        },
+        {
+          "line": 39,
+          "type": "figcaption_without_image",
+          "caption": "Beirut, 1975",
+          "preceding_image": null
+        },
+        {
+          "line": 55,
+          "type": "figcaption_without_image",
+          "caption": "L'entrata delle truppe Viet-cong nell'ambasciata USA a Saigon (1975)",
+          "preceding_image": null
+        }
+      ]
+    },
+    {
+      "slug": "parigi-a-novembre",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/parigi-a-novembre/index.md",
+      "figcaption_without_image_count": 3,
+      "missing_figcaptions": [
+        {
+          "line": 28,
+          "type": "figcaption_without_image",
+          "caption": "_Rue Denoyez a Belleville_ - _foto di Myrabella_",
+          "preceding_image": null
+        },
+        {
+          "line": 66,
+          "type": "figcaption_without_image",
+          "caption": "_\\[Rue Denoyez, XIX arr. - foto di Myrabella \\]_",
+          "preceding_image": null
+        },
+        {
+          "line": 86,
+          "type": "figcaption_without_image",
+          "caption": "_\\[ il soffitto della sala dell’Opéra Garnier affrescato da Chagall – foto M. Bena \\]_",
+          "preceding_image": null
+        }
+      ]
+    },
+    {
+      "slug": "frontiere",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/frontiere/index.md",
+      "figcaption_without_image_count": 2,
+      "missing_figcaptions": [
+        {
+          "line": 79,
+          "type": "figcaption_without_image",
+          "caption": "_La G ginevrina impressa in una pietra miliare_",
+          "preceding_image": null
+        },
+        {
+          "line": 91,
+          "type": "figcaption_without_image",
+          "caption": "_Il Giglio di Francia in un'altra pietra miliare_",
+          "preceding_image": null
+        }
+      ]
+    },
+    {
+      "slug": "ginevra-capitale-internazionale",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/ginevra-capitale-internazionale/index.md",
+      "figcaption_without_image_count": 2,
+      "missing_figcaptions": [
+        {
+          "line": 63,
+          "type": "figcaption_without_image",
+          "caption": "_Musée des Arts_",
+          "preceding_image": null
+        },
+        {
+          "line": 124,
+          "type": "figcaption_without_image",
+          "caption": "_Salone dell'Auto_",
+          "preceding_image": null
+        }
+      ]
+    },
+    {
+      "slug": "addio-maestro",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/addio-maestro/index.md",
+      "figcaption_without_image_count": 1,
+      "missing_figcaptions": [
+        {
+          "line": 23,
+          "type": "figcaption_without_image",
+          "caption": "_Ennio Morricone, allestimento inaugurazione Nuova Fiera di Roma - aprile 2006_",
+          "preceding_image": null
+        }
+      ]
+    },
+    {
+      "slug": "anno-nuovo-vita-nuova",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/anno-nuovo-vita-nuova/index.md",
+      "figcaption_without_image_count": 1,
+      "missing_figcaptions": [
+        {
+          "line": 22,
+          "type": "figcaption_without_image",
+          "caption": "Il Bois de la Bagasse e la Réserve naturelle nationale de la Haute Chaîne du Jura, visti da Ferney-Voltaire",
+          "preceding_image": null
+        }
+      ]
+    },
+    {
+      "slug": "il-mondo-al-tempo-del-corona-virus",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/il-mondo-al-tempo-del-corona-virus/index.md",
+      "figcaption_without_image_count": 1,
+      "missing_figcaptions": [
+        {
+          "line": 360,
+          "type": "figcaption_without_image",
+          "caption": "Una cartina del Nord Italia che evidenzia la riduzione dei gas serra nell'atmosfera a seguito del blocco delle attività",
+          "preceding_image": null
+        }
+      ]
+    },
+    {
+      "slug": "nabulio-parigi-la-carne-in-scatola-la-baguette-e-legitto",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/nabulio-parigi-la-carne-in-scatola-la-baguette-e-legitto/index.md",
+      "figcaption_without_image_count": 1,
+      "missing_figcaptions": [
+        {
+          "line": 124,
+          "type": "figcaption_without_image",
+          "caption": "_Dôme des Invalides, tomba di Napoleone I_",
+          "preceding_image": null
+        }
+      ]
+    },
+    {
+      "slug": "poubelle-luomo-dei-bidoni",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/poubelle-luomo-dei-bidoni/index.md",
+      "figcaption_without_image_count": 1,
+      "missing_figcaptions": [
+        {
+          "line": 48,
+          "type": "figcaption_without_image",
+          "caption": "Beaux-Arts de Carcassonne - Buste d'Eugène Poubelle - Denys Puech",
+          "preceding_image": null
+        }
+      ]
+    },
+    {
+      "slug": "ruote-dargento-2019",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/ruote-dargento-2019/index.md",
+      "figcaption_without_image_count": 1,
+      "missing_figcaptions": [
+        {
+          "line": 31,
+          "type": "figcaption_without_image",
+          "caption": "Ferney-Voltaire, Avenue Voltaire",
+          "preceding_image": null
+        }
+      ]
+    },
+    {
+      "slug": "scheletri-parigi",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/scheletri-parigi/index.md",
+      "figcaption_without_image_count": 1,
+      "missing_figcaptions": [
+        {
+          "line": 43,
+          "type": "figcaption_without_image",
+          "caption": "_**Isabelle Abadie**, nel suo laboratorio parigino_ \\[foto di Guia Besana per The New York Times\\]",
+          "preceding_image": null
+        }
+      ]
+    },
+    {
+      "slug": "torino-e-la-piazza-castello",
+      "file": "/home/marco/Documents/mondofrattolillo-site/src/content/blog/torino-e-la-piazza-castello/index.md",
+      "figcaption_without_image_count": 1,
+      "missing_figcaptions": [
+        {
+          "line": 44,
+          "type": "figcaption_without_image",
+          "caption": "_photo courtesy by [Piazza Castello Suite](http://piazzacastellosuite.com/)_",
+          "preceding_image": null
+        }
+      ]
+    }
+  ]
+}
