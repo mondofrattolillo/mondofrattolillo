@@ -49,6 +49,8 @@ Pur riuscendo ad entrare nella città litorale, l'armata italiana contò 631 mor
 
 I francesi catturarono 1.141 prigionieri che restituirono immediatamente dopo l’armistizio. I prigionieri francesi, ufficialmente 14, verranno spediti nel campo di Fonte d’Amore, vicino Sulmona, dove si aggiungeranno in seguito 200 internati britannici e 600 greci, che probabilmente finirono nelle mani dei tedeschi dopo l’armistizio.
 
+![Truppe della Divisione Modena entrano a Mentone](/blog-images/10-giugno-1940-litalia-dichiara-guerra-alla-francia/truppe-italiane-occupano-mentone.jpg)
+
 _(nella foto, truppe della Divisione Modena entrano a Mentone)_
 
 
@@ -59,24 +61,26 @@ Nonostante la Francia fosse occupata per metà dalle armate tedesche, l'attacco 
 
 #### Il trattato di Villa Incisa, infatti, era molto distante dalle pretese che Mussolini aveva presentato a Hitler durante il loro incontro a Monaco.
 
-<figure>
-
-<figure>
 
 
 
+
+
+
+![La delegazione francese](/blog-images/10-giugno-1940-litalia-dichiara-guerra-alla-francia/a00125904.jpeg)
 <figcaption>
 
 _La delegazione francese arriva a Roma per la firma dell'armistizio con l'Italia; tra gli altri si riconoscono il generale Charles Huntziger (al centro mentre saluta), l'ambasciatore Leon Noel (dietro di lui, con indosso un cappello) e il viceammiraglio Maurice Leluc (primo a sinistra)_
 
 </figcaption>
 
-</figure>
-
-<figure>
 
 
 
+
+
+
+![Badoglio](/blog-images/10-giugno-1940-litalia-dichiara-guerra-alla-francia/badoglio-legge-i-termini-dellarmistizio-ai-delegati-francesi.gif)
 <figcaption>
 
 _Il maresciallo Badoglio legge le clausole dell’armistizio alla delegazione francese  
@@ -84,21 +88,22 @@ _
 
 </figcaption>
 
-</figure>
-
-<figure>
 
 
 
+
+
+
+![Villa Incisa](/blog-images/10-giugno-1940-litalia-dichiara-guerra-alla-francia/800px-italian_occupation_of_menton_1940-1.jpg)
 <figcaption>
 
 _Villa Incisa, Roma_
 
 </figcaption>
 
-</figure>
 
-</figure>
+
+
 
 Il testo presentato prevedeva delle clausole molto ridimensionate, che vennero accettate subito dai delegati francesi e la mossa stupirà gli stessi tedeschi, che avevano approvato quasi completamente le richieste italiane formulate a Monaco.
 
@@ -124,45 +129,43 @@ Molte famiglie risultavano in pratica sparpagliate nei due Paesi, il che aumenta
 
 Il conflitto sulle Alpi Occidentali ruppe questo tessuto di relazioni sociali e portò la guerra in un territorio che non la vedeva da oltre cent'anni.
 
-<figure>
-
-<figure>
 
 
 
+
+
+
+![Colle della Maddalena](/blog-images/10-giugno-1940-litalia-dichiara-guerra-alla-francia/1024px-truppe_sul_colle_della_maddalena.jpg)
 <figcaption>
 
 _Truppe italiane al confine del Colle della Maddalena_
 
 </figcaption>
 
-</figure>
-
-<figure>
 
 
 
+
+
+
+![Battaglia di Mentone](/blog-images/10-giugno-1940-litalia-dichiara-guerra-alla-francia/battle_of_menton_1940-it-1.png)
 <figcaption>
 
 _Battaglia di Mentone_
 
 </figcaption>
 
-</figure>
-
-<figure>
 
 
 
-<figcaption>
 
-_Truppe italiane a Mentone_
 
-</figcaption>
 
-</figure>
 
-</figure>
+
+
+
+
 
 Anche se l'espressione _«pugnalata alla schiena»_ entrò nell'uso comune solo nel dopoguerra, serpeggiò fin da subito nella popolazione francese, ma anche in tanti italiani che vivevano in Francia, la sensazione che l'aggressione fosse stata una sorta di _«colpo a un uomo morto»_ e un tradimento a un Paese amico.
 
