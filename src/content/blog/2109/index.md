@@ -1,6 +1,7 @@
 ---
 title: "Meilleurs Vœux de Bonne Année ! - Auguri di Felice Anno Nuovo!"
 date: 2022-01-06
+coverImage: /blog-images/2109/pexels-photo-6027785.jpeg
 categories: 
   - "society"
 tags: 

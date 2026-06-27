@@ -1,6 +1,7 @@
 ---
 title: "Buone Feste!!!"
 date: 2010-12-20
+coverImage: "/blog-images/2109/pexels-photo-6027785.jpeg"
 categories: 
   - "family"
   - "society"
@@ -9,10 +10,10 @@ tags:
   - "auguri"
 ---
 
-> **mondoFrAtToLiLlO Vi Augura**
+> **mondoFrAtToLiLlO Vi Augura**  
 > 
-> **Buon Natale ed un Felice Anno Nuovo!!!**
+> **Buon Natale ed un Felice Anno Nuovo!!!**  
 
  
 
-\[youtube=http://www.youtube.com/watch?v=Mi\_CMSeHTss\]
+
