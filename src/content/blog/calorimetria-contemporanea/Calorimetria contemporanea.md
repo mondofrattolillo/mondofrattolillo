@@ -5,6 +5,12 @@ description: "Giornate di caldo asfissiante e insofferenza umana verso i cambiam
 coverImage: /blog-images/calorimetria-contemporanea/Paris2054.jpeg
 coverAlt: "Ginevra, febbraio 2054 - immagine creata da Marco Bena - agence de communication"
 slug: "calorimetria-contemporanea"
+categories:
+- "science"
+tags:
+- "2026"
+- "cambiamenti climatici"
+- "riscaldamento globale"
 ---
 
 *Vorrei invitare le amiche e gli amici che esternano sui social la loro insofferenza al caldo di questi giorni a riflettere su un alcuni elementi.*
