@@ -1,0 +1,28 @@
+---
+import { storyblokEditable, renderRichText } from '@storyblok/astro';
+
+const { blok } = Astro.props;
+const content = blok.body ? renderRichText(blok.body) : '';
+const pubDate = blok.pubDate
+  ? new Date(blok.pubDate).toLocaleDateString('it-IT', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+    })
+  : '';
+---
+
+<div {...storyblokEditable(blok)}>
+  {blok.coverImage?.filename && (
+    <div class="hero-image">
+      <img src={blok.coverImage.filename} alt={blok.coverImage.alt || ''} />
+    </div>
+  )}
+  <div class="title">
+    {pubDate && <div class="date">{pubDate}</div>}
+    <h1>{blok.title}</h1>
+    {blok.description && <p class="description">{blok.description}</p>}
+    <hr />
+  </div>
+  <div set:html={content} />
+</div>

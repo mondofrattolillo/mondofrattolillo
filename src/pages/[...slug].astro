@@ -1,0 +1,110 @@
+---
+import { useStoryblokApi } from '@storyblok/astro';
+import StoryblokComponent from '@storyblok/astro/StoryblokComponent.astro';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+export const prerender = false;
+
+const { slug } = Astro.params;
+const storyblokApi = useStoryblokApi();
+
+let story;
+try {
+  const { data } = await storyblokApi.get(`cdn/stories/${slug || 'home'}`, {
+    version: 'draft',
+  });
+  story = data.story;
+} catch (error) {
+  return Astro.redirect('/404');
+}
+
+const title = story.content.title || story.name;
+const description = story.content.description || '';
+---
+
+<html lang="it">
+  <head>
+    <BaseHead title={title} description={description} />
+    <style>
+      main {
+        width: calc(100% - 2em);
+        max-width: 100%;
+        margin: 0;
+      }
+      .hero-image {
+        width: 100%;
+        aspect-ratio: 16 / 9;
+        overflow: hidden;
+        border-radius: 12px;
+        background: rgb(var(--gray-light));
+        margin-bottom: 2em;
+      }
+      .hero-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+        box-shadow: var(--box-shadow);
+      }
+      .prose {
+        width: 720px;
+        max-width: calc(100% - 2em);
+        margin: auto;
+        padding: 1em;
+        color: rgb(var(--gray-dark));
+      }
+      .title {
+        margin-bottom: 1em;
+        padding: 1em 0;
+        text-align: center;
+        line-height: 1;
+      }
+      .title h1 {
+        margin: 0 0 0.5em 0;
+      }
+      .date {
+        margin-bottom: 0.5em;
+        color: rgb(var(--gray));
+      }
+      .description {
+        font-style: italic;
+        color: rgb(var(--gray));
+      }
+    </style>
+  </head>
+
+  <body>
+    <Header />
+    <main>
+      <article>
+        <div class="prose">
+          <StoryblokComponent blok={story.content} />
+        </div>
+      </article>
+    </main>
+    <div style="max-width:720px;margin:3em auto;padding:0 1em;">
+      <div id="disqus_thread"></div>
+      <script>
+        var disqus_config = function () {
+          this.page.url = window.location.href;
+          this.page.identifier = window.location.pathname;
+        };
+        (function () {
+          var d = document,
+            s = d.createElement("script");
+          s.src = "https://mondofrattolillo-1.disqus.com/embed.js";
+          s.setAttribute("data-timestamp", +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
+      <noscript
+        >Please enable JavaScript to view the <a
+          href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a
+        ></noscript
+      >
+    </div>
+    <Footer />
+  </body>
+</html>

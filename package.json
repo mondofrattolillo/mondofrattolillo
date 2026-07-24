@@ -13,12 +13,15 @@
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.4",
+    "@astrojs/node": "^10.1.4",
     "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.2",
+    "@storyblok/astro": "^10.2.2",
     "astro": "^6.3.1",
     "sharp": "^0.34.3"
   },
   "devDependencies": {
+    "@vitejs/plugin-basic-ssl": "^2.3.0",
     "prettier": "^3.8.3",
     "prettier-plugin-astro": "^0.14.1"
   }
