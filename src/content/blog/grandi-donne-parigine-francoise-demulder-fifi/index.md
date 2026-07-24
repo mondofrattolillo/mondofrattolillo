@@ -1,5 +1,5 @@
 ---
-coverImage: /blog-images/grandi-donne-parigine-francoise-demulder-fifi/2115408_orig.jpg
+coverImage: /blog-images/grandi-donne-parigine-francoise-demulder-fifi/4bb84-16596-1.jpg
 title: "Grandi Donne Parigine: FRANÇOISE DEMULDER (\"FIFI\")"
 date: 2020-06-24
 categories: 
@@ -20,7 +20,7 @@ tags:
 
 <figure>
 
-
+<img src="/blog-images/grandi-donne-parigine-francoise-demulder-fifi/ff1d1-432a1bba95d7e6d42e5fecb27b5f6e45.jpg" alt="Françoise Demulder" />
 
 <figcaption>
 
@@ -34,6 +34,7 @@ _FRANÇOISE DEMULDER ( "FIFI " ) \[Parigi, 9 giugno 1947 - Levallois-Perret, 3 s
 
 <figure>
 
+<img src="/blog-images/grandi-donne-parigine-francoise-demulder-fifi/beyrouth-gamma_396572.jpg" alt="Beirut, 1975" />
 
 
 <figcaption>
@@ -46,11 +47,16 @@ Beirut, 1975
 
 Aveva iniziato a muoversi nell'ambiente della fotografia come modella poi, seguendo il suo compagno in Vietnam, diventa quasi casualmente fotoreporter di guerra, immortalando momenti storici del conflitto nel sud-est asiatico (che seguirà per tre anni) e di tanti altri che seguiranno.
 
-<!--more-->
 
 <figure>
 
+<img src="/blog-images/grandi-donne-parigine-francoise-demulder-fifi/79795-102920038_10223965982602558_7894731213830227685_n.jpg" alt="Saigon" />
 
+</figure>
+
+<figure>
+
+<img src="/blog-images/grandi-donne-parigine-francoise-demulder-fifi/2115408_orig.jpg" />
 
 <figcaption>
 
