@@ -1,63 +1,50 @@
-# Astro Starter Kit: Blog
+# MondoFrattolillo
 
-```sh
-npm create astro@latest -- --template blog
-```
+Blog personale di Marco Frattolillo: racconti di viaggio, vita a Parigi, famiglia e riflessioni sparse, online dal 2007.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Il sito è costruito con [Astro](https://astro.build), integra [Storyblok](https://www.storyblok.com/) come CMS headless per i nuovi contenuti, e mantiene l'archivio storico del blog in formato Markdown/MDX migrato dalla vecchia piattaforma.
 
-Features:
+## Stack tecnico
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and Open Graph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+- **Astro** — framework per siti statici ad alte performance
+- **Storyblok** — CMS headless per gestione contenuti visuale
+- **Markdown/MDX** — formato per l'archivio storico degli articoli
+- **Vercel** — hosting e deploy continuo
 
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
+## Struttura del progetto
 
 ```text
+/
 ├── public/
 ├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
+│   ├── assets/
+│   ├── components/
+│   ├── content/
+│   │   └── blog/        # Archivio articoli storici (Markdown)
+│   ├── layouts/
+│   └── pages/
 ├── astro.config.mjs
-├── README.md
 ├── package.json
 └── tsconfig.json
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+Ogni articolo dell'archivio si trova in `src/content/blog/<slug>/index.md`, con le relative immagini nella stessa cartella.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## Comandi disponibili
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+Tutti i comandi vanno eseguiti dalla root del progetto, da terminale:
 
-Any static assets, like images, can be placed in the `public/` directory.
+| Comando             | Azione                                           |
+| :------------------ | :------------------------------------------------ |
+| `npm install`        | Installa le dipendenze                            |
+| `npm run dev`         | Avvia il server di sviluppo su `localhost:4321`   |
+| `npm run build`       | Compila il sito di produzione in `./dist/`        |
+| `npm run preview`     | Anteprima locale della build prima del deploy     |
 
-## 🧞 Commands
+## Deploy
 
-All commands are run from the root of the project, from a terminal:
+Il sito è collegato a Vercel per il deploy automatico ad ogni push sul branch `main`.
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## Contenuti
 
-## 👀 Want to learn more?
-
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+Gli articoli storici sono stati migrati dalla piattaforma precedente e coprono oltre 15 anni di pubblicazioni, dal 2007 ad oggi.
