@@ -2,6 +2,7 @@
 import { defineConfig, fontProviders, envField } from 'astro/config';
 import { env } from 'node:process';
 import node from '@astrojs/node';
+import vercel from '@astrojs/vercel';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { storyblok } from '@storyblok/astro';
@@ -13,7 +14,7 @@ const isDev = process.env.NODE_ENV !== 'production';
 export default defineConfig({
   site: 'https://example.com',
   output: isDev ? 'server' : 'static',
-  adapter: isDev ? node({ mode: 'standalone' }) : undefined,
+  adapter: isDev ? node({ mode: 'standalone' }) : vercel(),
   integrations: [
     mdx(),
     sitemap(),
@@ -22,7 +23,7 @@ export default defineConfig({
       apiOptions: {
         region: 'eu',
       },
-      livePreview: true,
+      livePreview: isDev,
       components: {
         page: 'storyblok/Page',
         articolo: 'storyblok/Articolo',

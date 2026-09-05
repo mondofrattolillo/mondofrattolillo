@@ -16,6 +16,7 @@
     "@astrojs/node": "^10.1.4",
     "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.2",
+    "@astrojs/vercel": "^10.0.8",
     "@storyblok/astro": "^10.2.2",
     "astro": "^6.3.1",
     "sharp": "^0.34.3"
