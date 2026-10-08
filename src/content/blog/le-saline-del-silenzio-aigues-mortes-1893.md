@@ -3,6 +3,8 @@ title: "Le saline del silenzio – Aigues-Mortes, 1893"
 description: "Quando la guerra tra poveri cancellò la memoria."
 pubDate: 2026-10-08
 heroImage: "/images/aigues-mortes/aigues-mortes-panorama.jpg"
+categories:
+        - "Storia"
 ---
 
 <audio controls preload="metadata" style="width: 100%;">
@@ -57,10 +59,3 @@ Ci vollero decenni, e il lavoro ostinato di storici come **Gérard Noiriel** e *
 
 > Oggi, passando per le saline, il vento porta ancora il sapore amaro di quell’acqua. Quella dimenticanza non è innocua: è il segno che quando si lascia la storia nelle mani dei potenti, le vittime restano senza nome. E la “guerra tra poveri” continua a ripetersi, identica, sotto cieli e nomi diversi.
 
-### Crediti fotografici
-
-Inserire qui autore, fonte e licenza delle fotografie.
-
-### Fonte audio
-
-Narrazione: *AiguesMortes_08102026_ITA.mp3*.[1]
