@@ -4,6 +4,7 @@ description: "Cristina Trivulzio di Belgiojoso: l'esule milanese che fece della 
 pubDate: 2026-10-14
 categories:
   - Storia
+coverImage: "/images/cristina-belgiojoso/cristina-header-madeleine.jpg"
 tags:
   - Cristina Trivulzio di Belgiojoso
   - Parigi
@@ -37,6 +38,10 @@ Tra i suoi frequentatori figurano Heinrich Heine, Honoré de Balzac, Frédéric 
 
 Sarebbe facile descrivere quelle serate come un susseguirsi di conversazioni brillanti, musica e raffinatezza. Ma sarebbe riduttivo.
 
+![Ricostruzione artistica del salotto parigino di Cristina Trivulzio di Belgiojoso](/images/cristina-belgiojoso/cristina-salone-parigi.jpg)
+
+*Il salotto parigino della principessa. Illustrazione artistica realizzata con intelligenza artificiale.*
+
 Il salotto di Cristina è anche un crocevia politico. Qui la questione italiana entra nelle conversazioni dell'Europa colta. Qui gli esuli trovano interlocutori, sostegno e occasioni per far circolare le proprie idee.
 
 Cristina non si limita a ospitare uomini celebri: partecipa alla costruzione di una rete transnazionale di relazioni culturali e politiche.
@@ -60,6 +65,10 @@ Nel 1848 l'Europa insorge.
 Cristina torna in Italia e partecipa alla stagione rivoluzionaria. Raccoglie volontari, sostiene la causa nazionale e continua a intervenire attraverso il giornalismo.
 
 Nel 1849, durante la difesa della Repubblica romana, assume un compito concreto e difficile: organizzare l'assistenza ai feriti.
+
+![Cristina di Belgiojoso e l'assistenza ai feriti durante la Repubblica romana del 1849, ricostruzione artistica](/images/cristina-belgiojoso/cristina-roma-1849.jpg)
+
+*L'assistenza ai feriti della Repubblica romana del 1849. Ricostruzione artistica realizzata con intelligenza artificiale.*
 
 Il suo impegno negli ospedali militari mostra un altro aspetto della sua personalità. Non soltanto l'intellettuale capace di discutere con i grandi pensatori europei, ma una donna che sa affrontare problemi organizzativi e umani in una città sotto assedio.
 
